@@ -1,0 +1,308 @@
+<list>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>AH</kod>
+    <malzemeAdi>Alçý harcý (alçý sýva)</malzemeAdi>
+    <lambda>0.6</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>AP</kod>
+    <malzemeAdi>Ahþap parke</malzemeAdi>
+    <lambda>0.17</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>AR</kod>
+    <malzemeAdi>Ahþap Rende</malzemeAdi>
+    <lambda>0.07</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>BBB</kod>
+    <malzemeAdi>Boþluklu Beton Briket</malzemeAdi>
+    <lambda>0.55</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>BK</kod>
+    <malzemeAdi>Bitum kaplama (su yalýtymý)</malzemeAdi>
+    <lambda>0.17</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>DB</kod>
+    <malzemeAdi>Donatýlý beton</malzemeAdi>
+    <lambda>1.8</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>DS</kod>
+    <malzemeAdi>Dýþ sýva</malzemeAdi>
+    <lambda>1.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>DT</kod>
+    <malzemeAdi>Delikli Tuðla</malzemeAdi>
+    <lambda>0.43</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>DoT1</kod>
+    <malzemeAdi>Dolu Tuðla (39 cm)</malzemeAdi>
+    <lambda>0.7</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>GB1</kod>
+    <malzemeAdi>Gazbeton (Rho=400)</malzemeAdi>
+    <lambda>0.12</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>GB2</kod>
+    <malzemeAdi>Gazbeton (Rho=500)</malzemeAdi>
+    <lambda>0.14</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>GB3</kod>
+    <malzemeAdi>Gazbeton (Rho=600)</malzemeAdi>
+    <lambda>0.16</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>GB4</kod>
+    <malzemeAdi>Gazbeton (Rho=700)</malzemeAdi>
+    <lambda>0.18</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>GB5</kod>
+    <malzemeAdi>Gazbeton (Rho=800)</malzemeAdi>
+    <lambda>0.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>GR</kod>
+    <malzemeAdi>Granit</malzemeAdi>
+    <lambda>3.0</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>HK</kod>
+    <malzemeAdi>Haly kaplama</malzemeAdi>
+    <lambda>0.06</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>HL</kod>
+    <malzemeAdi>Heraklit</malzemeAdi>
+    <lambda>0.12</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>IC</kod>
+    <malzemeAdi>Yzocam</malzemeAdi>
+    <lambda>0.035</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>IS</kod>
+    <malzemeAdi>Yç sýva</malzemeAdi>
+    <lambda>0.75</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KC</kod>
+    <malzemeAdi>Kömür curufu</malzemeAdi>
+    <lambda>0.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KF</kod>
+    <malzemeAdi>Karo fayans</malzemeAdi>
+    <lambda>0.85</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KH</kod>
+    <malzemeAdi>Kireç harcy (kireç sýva)</malzemeAdi>
+    <lambda>0.75</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KL</kod>
+    <malzemeAdi>Köpük levha</malzemeAdi>
+    <lambda>0.034</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KM</kod>
+    <malzemeAdi>Karo mozaik</malzemeAdi>
+    <lambda>0.85</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KMD</kod>
+    <malzemeAdi>Kayyn. me?e. di?budak</malzemeAdi>
+    <lambda>0.17</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KP</kod>
+    <malzemeAdi>Kontraplak</malzemeAdi>
+    <lambda>0.13</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KS</kod>
+    <malzemeAdi>Karo seramik</malzemeAdi>
+    <lambda>0.85</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KZ</kod>
+    <malzemeAdi>Kumlu zemin</malzemeAdi>
+    <lambda>1.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KÇH</kod>
+    <malzemeAdi>Kireçli çimento harcy</malzemeAdi>
+    <lambda>0.75</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KÇZ</kod>
+    <malzemeAdi>Kumlu ve çakylly zemin</malzemeAdi>
+    <lambda>1.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>KYZ</kod>
+    <malzemeAdi>Killi zemin</malzemeAdi>
+    <lambda>1.8</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>MH</kod>
+    <malzemeAdi>Mozaik harcy</malzemeAdi>
+    <lambda>1.5</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>ML</kod>
+    <malzemeAdi>Marley</malzemeAdi>
+    <lambda>0.18</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>MR</kod>
+    <malzemeAdi>Mermer</malzemeAdi>
+    <lambda>3.0</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>MS</kod>
+    <malzemeAdi>Mozaik kaplama</malzemeAdi>
+    <lambda>1.5</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>MZ</kod>
+    <malzemeAdi>Mozaik</malzemeAdi>
+    <lambda>1.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>MÇ</kod>
+    <malzemeAdi>Mozaik çini</malzemeAdi>
+    <lambda>0.85</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>PS</kod>
+    <malzemeAdi>Perlit sýva (5 cm)</malzemeAdi>
+    <lambda>0.08</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>PSKL</kod>
+    <malzemeAdi>Polistren sert köpük levha</malzemeAdi>
+    <lambda>0.03</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>SKK</kod>
+    <malzemeAdi>Saman katkyly kerpiç</malzemeAdi>
+    <lambda>0.8</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>SL</kod>
+    <malzemeAdi>Sunta levha (kalýnlýk=15 mm)</malzemeAdi>
+    <lambda>0.13</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>SL2</kod>
+    <malzemeAdi>Sunta levha (kalýnlýk &gt;= 25mm)</malzemeAdi>
+    <lambda>0.08</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>SR</kod>
+    <malzemeAdi>Seramik</malzemeAdi>
+    <lambda>1.03</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>ST</kod>
+    <malzemeAdi>Sert toprak</malzemeAdi>
+    <lambda>1.8</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>TB</kod>
+    <malzemeAdi>Tesviye betonu</malzemeAdi>
+    <lambda>1.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>TP</kod>
+    <malzemeAdi>Tahta parke</malzemeAdi>
+    <lambda>0.17</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>TY</kod>
+    <malzemeAdi>Taþ yünü</malzemeAdi>
+    <lambda>0.034</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>YT</kod>
+    <malzemeAdi>Yýðma Tuðla</malzemeAdi>
+    <lambda>0.68</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>ÇH</kod>
+    <malzemeAdi>Çimento harcy (çimento sýva)</malzemeAdi>
+    <lambda>1.2</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>Se</kod>
+    <malzemeAdi>Selim</malzemeAdi>
+    <lambda>0.0</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+  <com.iztek.dd.IsiKaybi.domain.Malzeme>
+    <kod>SE</kod>
+    <malzemeAdi>SELim</malzemeAdi>
+    <lambda>0.0</lambda>
+    <kalinlik>0.0</kalinlik>
+  </com.iztek.dd.IsiKaybi.domain.Malzeme>
+</list>

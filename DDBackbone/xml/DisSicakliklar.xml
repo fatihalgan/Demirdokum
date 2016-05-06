@@ -1,0 +1,671 @@
+<DisSicakliklar>
+  <entry>
+    <string>ADANA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>16.5</disOzgulNem>
+      <gunlukSicaklikFarki>12.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ADAPAZARI</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>15.9</disOzgulNem>
+      <gunlukSicaklikFarki>12.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ADIYAMAN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>AFYON</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>10.3</disOzgulNem>
+      <gunlukSicaklikFarki>17.1</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  
+  <entry>
+    <string>AÐRI</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>AMASYA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>31</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ANKARA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>8.9</disOzgulNem>
+      <gunlukSicaklikFarki>15.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ANTAKYA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>20.4</disOzgulNem>
+      <gunlukSicaklikFarki>7.3</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ANTALYA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>39</maksimumDisSicaklik>
+      <disOzgulNem>19.6</disOzgulNem>
+      <gunlukSicaklikFarki>11.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ARTVÝN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>AYDIN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>40</maksimumDisSicaklik>
+      <disOzgulNem>15.5</disOzgulNem>
+      <gunlukSicaklikFarki>11.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>BALIKESÝR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>15.0</disOzgulNem>
+      <gunlukSicaklikFarki>12.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>BANDIRMA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>16.2</disOzgulNem>
+      <gunlukSicaklikFarki>12.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+ <entry>
+    <string>BÝLECÝK</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>13.2</disOzgulNem>
+      <gunlukSicaklikFarki>11.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>BÝNGÖL</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  
+  <entry>
+    <string>BÝTLÝS</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>BOLU</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>13.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>BURDUR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>9.5</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>BURSA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>15.0</disOzgulNem>
+      <gunlukSicaklikFarki>13.7</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÇANAKKALE</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>16.2</disOzgulNem>
+      <gunlukSicaklikFarki>11.9</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÇANKIRI</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>11.9</disOzgulNem>
+      <gunlukSicaklikFarki>11.9</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÇORUM</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>11.3</disOzgulNem>
+      <gunlukSicaklikFarki>16.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>DENÝZLÝ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>13.0</disOzgulNem>
+      <gunlukSicaklikFarki>16.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>DÝYARBAKIR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>43</maksimumDisSicaklik>
+      <disOzgulNem>9.5</disOzgulNem>
+      <gunlukSicaklikFarki>17.7</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>EDÝRNE</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>15.0</disOzgulNem>
+      <gunlukSicaklikFarki>14.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ELAZIÐ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>8.7</disOzgulNem>
+      <gunlukSicaklikFarki>13.9</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ERZÝNCAN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>10.9</disOzgulNem>
+      <gunlukSicaklikFarki>17.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ERZURUM</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>9.3</disOzgulNem>
+      <gunlukSicaklikFarki>14.7</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ESKÝÞEHÝR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>11.7</disOzgulNem>
+      <gunlukSicaklikFarki>15.9</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>GAZÝANTEP</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>39</maksimumDisSicaklik>
+      <disOzgulNem>13.3</disOzgulNem>
+      <gunlukSicaklikFarki>13.5</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>GÝRESUN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>29</maksimumDisSicaklik>
+      <disOzgulNem>18.4</disOzgulNem>
+      <gunlukSicaklikFarki>6.3</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>GÜMÜÞHANE</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>HAKKARÝ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>HATAY</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>20.4</disOzgulNem>
+      <gunlukSicaklikFarki>7.3</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>IÐDIR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>15.5</disOzgulNem>
+      <gunlukSicaklikFarki>16.7</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ISPARTA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>10.3</disOzgulNem>
+      <gunlukSicaklikFarki>15.5</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÝÇEL</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>14.3</disOzgulNem>
+      <gunlukSicaklikFarki>7.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÝSKENDERUN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>22.5</disOzgulNem>
+      <gunlukSicaklikFarki>8.3</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÝSTANBUL</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>15.2</disOzgulNem>
+      <gunlukSicaklikFarki>10.5</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÝZMÝR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>13.5</disOzgulNem>
+      <gunlukSicaklikFarki>12.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÝZMÝT</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>35.5</disOzgulNem>
+      <gunlukSicaklikFarki>10.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  
+  <entry>
+    <string>KAHRAMANMARAÞ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KARS</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>10.5</disOzgulNem>
+      <gunlukSicaklikFarki>16.6</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KASTAMONU</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>11.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.2</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KAYSERÝ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>10.9</disOzgulNem>
+      <gunlukSicaklikFarki>20.1</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KIRKLARELÝ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KIRÞEHÝR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>9.9</disOzgulNem>
+      <gunlukSicaklikFarki>20.1</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KOCAELÝ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>15.5</disOzgulNem>
+      <gunlukSicaklikFarki>10.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KONYA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>10.3</disOzgulNem>
+      <gunlukSicaklikFarki>15.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>KÜTAHYA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>10.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>MALATYA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>8.7</disOzgulNem>
+      <gunlukSicaklikFarki>14.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>MANÝSA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>40</maksimumDisSicaklik>
+      <disOzgulNem>13.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>MARDÝN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>11.6</disOzgulNem>
+      <gunlukSicaklikFarki>10.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>MERSÝN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>14.3</disOzgulNem>
+      <gunlukSicaklikFarki>7.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>MUÐLA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>10.5</disOzgulNem>
+      <gunlukSicaklikFarki>13.2</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>MUÞ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>NEVÞEHÝR</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>28</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>NÝÐDE</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>8.9</disOzgulNem>
+      <gunlukSicaklikFarki>15.5</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ORDU</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>RÝZE</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>19.8</disOzgulNem>
+      <gunlukSicaklikFarki>6.1</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>SAKARYA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>15.9</disOzgulNem>
+      <gunlukSicaklikFarki>12.4</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>SAMSUN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>17.2</disOzgulNem>
+      <gunlukSicaklikFarki>7.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>SÝÝRT</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>40</maksimumDisSicaklik>
+      <disOzgulNem>10.7</disOzgulNem>
+      <gunlukSicaklikFarki>13.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>SÝNOP</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>18.0</disOzgulNem>
+      <gunlukSicaklikFarki>6.5</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>SÝVAS</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>9.3</disOzgulNem>
+      <gunlukSicaklikFarki>17.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>TEKÝRDAÐ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>16.7</disOzgulNem>
+      <gunlukSicaklikFarki>9.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>TOKAT</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>29</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>TRABZON</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>31</maksimumDisSicaklik>
+      <disOzgulNem>17.6</disOzgulNem>
+      <gunlukSicaklikFarki>5.8</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>TUNCELÝ</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ÞANLIURFA</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>43</maksimumDisSicaklik>
+      <disOzgulNem>11.0</disOzgulNem>
+      <gunlukSicaklikFarki>15.2</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>UÞAK</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>11.3</disOzgulNem>
+      <gunlukSicaklikFarki>16.6</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>VAN</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>9.3</disOzgulNem>
+      <gunlukSicaklikFarki>15.5</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>YOZGAT</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>9.7</disOzgulNem>
+      <gunlukSicaklikFarki>8.1</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>ZONGULDAK</string>
+    <com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>17.2</disOzgulNem>
+      <gunlukSicaklikFarki>8.1</gunlukSicaklikFarki>
+    </com.iztek.dd.IsiKazanci.domain.DisSicaklikDegerleri>
+  </entry>
+  
+</DisSicakliklar>

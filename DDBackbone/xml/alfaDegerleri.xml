@@ -1,0 +1,37 @@
+<AlfaDegerleri>
+  <AlfaDegeri>
+    <aciklama>Arakat - Döþeme -(ýsý aþaðýdan yukarýya)</aciklama>
+    <alphaIc>7.0</alphaIc>
+    <alphaDis>7.0</alphaDis>
+  </AlfaDegeri>
+  <AlfaDegeri>
+    <aciklama>Arakat - Döþeme -(ýsý yukarýdan aþaðýya)</aciklama>
+    <alphaIc>5.0</alphaIc>
+    <alphaDis>5.0</alphaDis>
+  </AlfaDegeri>
+  <AlfaDegeri>
+    <aciklama>Dolgu zemin - Döþeme -(ýsý içten dýþa)</aciklama>
+    <alphaIc>7.0</alphaIc>
+    <alphaDis>7.0</alphaDis>
+  </AlfaDegeri>
+  <AlfaDegeri>
+    <aciklama>Dýþ yüzey - Döþeme -(ýsý içten dýþa)</aciklama>
+    <alphaIc>5.0</alphaIc>
+    <alphaDis>20.0</alphaDis>
+  </AlfaDegeri>
+  <AlfaDegeri>
+    <aciklama>Dýþ yüzey - Dýþ duvar -(ýsý içten dýþa)</aciklama>
+    <alphaIc>7.0</alphaIc>
+    <alphaDis>20.0</alphaDis>
+  </AlfaDegeri>
+  <AlfaDegeri>
+    <aciklama>Dýþ yüzey - Tavan -(ýsý içten dýþa)</aciklama>
+    <alphaIc>7.0</alphaIc>
+    <alphaDis>20.0</alphaDis>
+  </AlfaDegeri>
+  <AlfaDegeri>
+    <aciklama>Ýç yüzey - iç duvar</aciklama>
+    <alphaIc>7.0</alphaIc>
+    <alphaDis>7.0</alphaDis>
+  </AlfaDegeri>
+</AlfaDegerleri>

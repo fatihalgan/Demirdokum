@@ -1,0 +1,47 @@
+<Aktiviteler>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Oturarak dinlenme</tip>
+    <duyulurIsi>60.0</duyulurIsi>
+    <gizliIsi>40.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Oturarak hafif çalýþma</tip>
+    <duyulurIsi>65.0</duyulurIsi>
+    <gizliIsi>55.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Oturarak yemek yeme</tip>
+    <duyulurIsi>75.0</duyulurIsi>
+    <gizliIsi>95.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Ayakta hafif çalýþma, yürümek</tip>
+    <duyulurIsi>90.0</duyulurIsi>
+    <gizliIsi>95.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Ayakta hafif çalýþma</tip>
+    <duyulurIsi>100.0</duyulurIsi>
+    <gizliIsi>130.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Yürüyerek hafif çalýþma</tip>
+    <duyulurIsi>100.0</duyulurIsi>
+    <gizliIsi>205.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Dans etmek</tip>
+    <duyulurIsi>120.0</duyulurIsi>
+    <gizliIsi>255.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Aðýr sanayi iþçiliði</tip>
+    <duyulurIsi>165.0</duyulurIsi>
+    <gizliIsi>300.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+  <com.iztek.dd.IsiKazanci.domain.Aktivite>
+    <tip>Aðýr jimnastik</tip>
+    <duyulurIsi>185.0</duyulurIsi>
+    <gizliIsi>340.0</gizliIsi>
+  </com.iztek.dd.IsiKazanci.domain.Aktivite>
+</Aktiviteler>

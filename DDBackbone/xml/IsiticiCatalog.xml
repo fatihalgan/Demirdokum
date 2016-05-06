@@ -1,0 +1,877 @@
+<Isiticilar>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 6</tip>
+    <modelAdi></modelAdi>
+    <guc>81.41</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 7</tip>
+    <modelAdi></modelAdi>
+    <guc>97.69</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 8</tip>
+    <modelAdi></modelAdi>
+    <guc>113.97</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 9</tip>
+    <modelAdi></modelAdi>
+    <guc>130.25</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 10</tip>
+    <modelAdi></modelAdi>
+    <guc>146.54</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 12</tip>
+    <modelAdi></modelAdi>
+    <guc>179.10</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 13</tip>
+    <modelAdi></modelAdi>
+    <guc>195.38</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 15</tip>
+    <modelAdi></modelAdi>
+    <guc>211.66</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>AK 17</tip>
+    <modelAdi></modelAdi>
+    <guc>261.67</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 70 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>81.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 70 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>81.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 90 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>105.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 90 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>105.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 110  ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>128.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 110 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>128.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 110 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>128.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 140  ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>163.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 140 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>163.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 140 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>163.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 170  ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>198.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 170 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>198.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 170 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>198.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 220 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>256.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 220 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>256.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 220 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>256.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 250 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>291.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 250 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>291.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 250 ( M)</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>291.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 320 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>372.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 320 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>372.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 320 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>372.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 360 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>419.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 360 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>419.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 360 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>419.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 400 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>465.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 400 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>465.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 400 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>465.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 500 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>581.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 500 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>581.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 500 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>581.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 640 ( D )</tip>
+    <modelAdi>Çelik Kazan  ( Doðalgaz, LPG )</modelAdi>
+    <guc>744.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 640 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>744.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 640 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>744.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 800 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>930.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 800 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>930.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 800 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>930.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 1000 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>1163.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 1000 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>1163.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 1000 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>1163.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 1250 ( D )</tip>
+    <modelAdi>Çelik Kazan ( Doðalgaz, LPG )</modelAdi>
+    <guc>1453.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 1250 ( F )</tip>
+    <modelAdi>Fuel-oil</modelAdi>
+    <guc>1453.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>CK 1250 ( M )</tip>
+    <modelAdi>Çelik Kazan ( Motorin )</modelAdi>
+    <guc>1453.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 4 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>105.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 4 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>105.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 5 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>144.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 5 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>144.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 6 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>184.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 6 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 1 mbar, Yakýt Sarf: 12.5 kg/H</modelAdi>
+    <guc>120.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 6 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>184.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 7 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>223.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 7 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 1.5 mbar,  Yak. Sarf: 15.2 kg/h</modelAdi>
+    <guc>145.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 7 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>223.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 8 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>262.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 8 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 2.30 mbar,  Yak. Sarf: 17.8 kg/h</modelAdi>
+    <guc>171.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 8 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>262.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 9 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>300.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 9 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 3.30 mbar,   Yak. Sarf: 20.5 kg/h</modelAdi>
+    <guc>197.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MD 9 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>300.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 8 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>320.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 8 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 0.90 mbar,  Yak. Sarf: 23.4 kg/h</modelAdi>
+    <guc>224.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 8 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>320.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 9 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>378.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 9 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 1.27 mbar,  Yak. Sarf: 29.6 kg/h</modelAdi>
+    <guc>284.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 9 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>378.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 10 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>436.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 10 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 1.64 mbar,  Yak. Sarf: 34.1 kg/h</modelAdi>
+    <guc>327.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 10 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>436.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 11 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>494.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 11 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 2.11 mbar,  Yak. Sarf: 38.6 kg/h</modelAdi>
+    <guc>370.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 11 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>494.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 12 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>552.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 12 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 2.63 mbar,  Yak. Sarf: 43.1 kg/h</modelAdi>
+    <guc>413.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 12 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>552.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 13 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>611.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 13 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 1.66 mbar, Yak. Sarf: 47.5 kg/h</modelAdi>
+    <guc>456.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 13 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>611.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 14 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>669.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 14 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 2 mbar,  Yak. Sarf: 52 kg/h</modelAdi>
+    <guc>499.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 14 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>669.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 15 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>727.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 15 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 2.38 mbar,  Yak. Sarf: 56.5 kg/h</modelAdi>
+    <guc>542.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 15 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>727.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 16 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>785.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 16 ( F )</tip>
+    <modelAdi>Karþý Basýnç:2.76 mbar,  Yak. Sarf: 61 kg/h</modelAdi>
+    <guc>585.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 16 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>785.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 18 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>901.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 18 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 3.51 mbar, Yak. Sarf: 70.3 kg/h</modelAdi>
+    <guc>675.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 18 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>901.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 20 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>1017.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 20 ( F )</tip>
+    <modelAdi>Karþý Basýnç: 4.25 mbar,  Yak. Sarf: 79.6 kg/h</modelAdi>
+    <guc>762.0</guc>
+    <yakitTipi>2.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MK 20 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>1017.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MN 54 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>63.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MN 54 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>63.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MN 69 ( D )</tip>
+    <modelAdi>Doðalgaz, LPG</modelAdi>
+    <guc>80.0</guc>
+    <yakitTipi>1.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KazanModeli>
+    <tip>MN 69 ( M )</tip>
+    <modelAdi>Motorin</modelAdi>
+    <guc>80.0</guc>
+    <yakitTipi>3.0</yakitTipi>
+  </com.iztek.dd.IsiKaybi.domain.KazanModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>20.0</guc>
+    <modelAdi>ADEN</modelAdi>
+    <tip>HKB120</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>false</hermetik>
+    <guc>20.0</guc>
+    <modelAdi>ADEN</modelAdi>
+    <tip>BKB120</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>24.0</guc>
+    <modelAdi>ADEN</modelAdi>
+    <tip>HKB124</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>false</hermetik>
+    <guc>23.5</guc>
+    <modelAdi>ADEN</modelAdi>
+    <tip>BKB124</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>23.26</guc>
+    <modelAdi>SOLARIS</modelAdi>
+    <tip>HKA124</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/solaris.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>23.26</guc>
+    <modelAdi>ADEN ULTIMA</modelAdi>
+    <tip>HKB124</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden_ultima.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>23.26</guc>
+    <modelAdi>SARGON CONDENSE</modelAdi>
+    <tip>HKB224</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/sargon.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>23.26</guc>
+    <modelAdi>MILLENIUM PLUS</modelAdi>
+    <tip>HK24 E</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/millenium_plus.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>false</hermetik>
+    <guc>23.26</guc>
+    <modelAdi>MILLENIUM PLUS</modelAdi>
+    <tip>BK24 E</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/millenium_plus.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>23.26</guc>
+    <modelAdi>SARGON PREMIX</modelAdi>
+    <tip>HKB224 P</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/sargon.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>30.24</guc>
+    <modelAdi>ADEN</modelAdi>
+    <tip>HKB130</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>false</hermetik>
+    <guc>30.24</guc>
+    <modelAdi>ADEN</modelAdi>
+    <tip>BKB130</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>30.24</guc>
+    <modelAdi>SOLARIS</modelAdi>
+    <tip>HKA230</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/solaris.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>30.24</guc>
+    <modelAdi>ADEN ULTIMA</modelAdi>
+    <tip>HKD130</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/aden_ultima.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>30.24</guc>
+    <modelAdi>SARGON CONDENSE</modelAdi>
+    <tip>HKB230 C</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/sargon.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>30.24</guc>
+    <modelAdi>SARGON PREMIX</modelAdi>
+    <tip>HKB230 P</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/sargon.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>30.24</guc>
+    <modelAdi>THEMAFAST</modelAdi>
+    <tip>F30 E</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/themafast.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>true</hermetik>
+    <guc>34.89</guc>
+    <modelAdi>ISOFAST</modelAdi>
+    <tip>HK 335 FE RC</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/isofast.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KombiModeli>
+    <hermetik>false</hermetik>
+    <guc>34.89</guc>
+    <modelAdi>ISOFAST</modelAdi>
+    <tip>BK 335 FE RC</tip>
+    <imageFile>/com/iztek/dd/GUI/images/kombi/isofast.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KombiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>32 E</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>37.37</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>40 E</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>46.80</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>48 E</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>56</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>55 E</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>64.40</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>32 TB</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>37.37</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>40 TB</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>46.80</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>48 TB</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>56</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>55 TB</tip>
+    <modelAdi>ARTECH</modelAdi>
+    <guc>64.40</guc>
+    <yakitTipi>1.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/artech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>18</tip>
+    <modelAdi>QUATECH</modelAdi>
+    <guc>21</guc>
+    <yakitTipi>2.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/quatech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>24</tip>
+    <modelAdi>QUATECH</modelAdi>
+    <guc>28</guc>
+    <yakitTipi>2.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/quatech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>30</tip>
+    <modelAdi>QUATECH</modelAdi>
+    <guc>35</guc>
+    <yakitTipi>2.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/quatech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>35</tip>
+    <modelAdi>QUATECH</modelAdi>
+    <guc>41</guc>
+    <yakitTipi>2.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/quatech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>46</tip>
+    <modelAdi>QUATECH</modelAdi>
+    <guc>53</guc>
+    <yakitTipi>2.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/quatech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>30</tip>
+    <modelAdi>SOLITECH</modelAdi>
+    <guc>37.2</guc>
+    <yakitTipi>3.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/solitech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>40</tip>
+    <modelAdi>SOLITECH</modelAdi>
+    <guc>48.8</guc>
+    <yakitTipi>3.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/solitech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+  <com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+    <tip>60</tip>
+    <modelAdi>SOLITECH</modelAdi>
+    <guc>69</guc>
+    <yakitTipi>3.0</yakitTipi>
+    <imageFile>/com/iztek/dd/GUI/images/katKaloriferi/solitech.jpg</imageFile>
+  </com.iztek.dd.IsiKaybi.domain.KatKaloriferiModeli>
+</Isiticilar>

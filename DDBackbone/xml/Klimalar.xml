@@ -1,0 +1,110 @@
+<Klimalar>
+  <Klima>
+    <model>DDY 07</model>
+    <seri>1</seri>
+    <guc>2.1</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/ddy.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>DDY 09</model>
+    <seri>1</seri>
+    <guc>2.6</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/ddy.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>DDY 12</model>
+    <seri>1</seri>
+    <guc>3.5</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/ddy.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>DDY 18</model>
+    <seri>1</seri>
+    <guc>5.3</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/ddy.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>DDY 24</model>
+    <seri>1</seri>
+    <guc>7.0</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/ddy.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>DDY 30</model>
+    <seri>1</seri>
+    <guc>8.2</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/ddy.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>Pacific 09 HP</model>
+    <seri>2</seri>
+    <guc>2.5</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>Pacific 12 HP</model>
+    <seri>2</seri>
+    <guc>3.2</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>Pacific 18 HP</model>
+    <seri>2</seri>
+    <guc>5.3</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>Pacific 24 HP</model>
+    <seri>2</seri>
+    <guc>7.0</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>7024 HP</model>
+    <seri>3</seri>
+    <guc>7.035</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/7024.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>7042 HP</model>
+    <seri>3</seri>
+    <guc>12.0</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/7024.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>6012 HP</model>
+    <seri>4</seri>
+    <guc>1.3</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>6018 HP</model>
+    <seri>4</seri>
+    <guc>1.89</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>6022 HP</model>
+    <seri>4</seri>
+    <guc>2.8</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>6032 HP</model>
+    <seri>4</seri>
+    <guc>3.38</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>6042 HP</model>
+    <seri>4</seri>
+    <guc>4.85</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+  <Klima>
+    <model>6052 HP</model>
+    <seri>4</seri>
+    <guc>5.6</guc>
+    <resimPath>/com/iztek/dd/GUI/images/klima/pacific.jpg</resimPath>
+  </Klima>
+</Klimalar>

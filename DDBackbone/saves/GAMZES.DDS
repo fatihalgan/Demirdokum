@@ -1,0 +1,1183 @@
+<com.iztek.dd.SaveObject>
+  <proje>
+    <projeAdi>deneme</projeAdi>
+    <projeMuhendisiAdiSoyadi>Gamze Gediz</projeMuhendisiAdiSoyadi>
+    <projeMuhendisiUnvani>Makina Yüksek Müh.</projeMuhendisiUnvani>
+    <projeMuhendisiSicilNo>0001</projeMuhendisiSicilNo>
+    <adaParsel>1</adaParsel>
+    <binaTanim>deneme bina</binaTanim>
+    <caddeBinaNumarasi>1</caddeBinaNumarasi>
+    <semtÝlceÝl>Bursa</semtÝlceÝl>
+    <yakitTuru>DG</yakitTuru>
+    <cogunluklaKullanilanDisDuvar>
+      <icDuvar>false</icDuvar>
+      <disDuvar>false</disDuvar>
+      <doseme>false</doseme>
+      <lambda>1.14</lambda>
+      <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+      <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+      <toplamAlan>0.0</toplamAlan>
+      <cikarilanAlan>0.0</cikarilanAlan>
+      <netAlan>0.0</netAlan>
+      <id>0</id>
+      <yapiElemaniKodu>DD1</yapiElemaniKodu>
+      <yapiElemaniAdi>Dýþ sýva+Delikli tuðla+Köpük levha+Delikli tuðla+Ýç sýva</yapiElemaniAdi>
+      <uzunluk>0.0</uzunluk>
+      <yukseklik>0.0</yukseklik>
+      <isiGecirgenlikKatsayisi>0.76</isiGecirgenlikKatsayisi>
+      <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+      <kalinlik>0.0</kalinlik>
+      <icSicaklik>0.0</icSicaklik>
+      <disSicaklik>0.0</disSicaklik>
+      <alan>0.0</alan>
+      <isiFarki>0.0</isiFarki>
+      <isiKaybi>0.0</isiKaybi>
+      <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+      <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+    </cogunluklaKullanilanDisDuvar>
+    <cogunluklaKullanilanIcDuvar class="com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani">
+      <icDuvar>false</icDuvar>
+      <disDuvar>false</disDuvar>
+      <doseme>false</doseme>
+      <lambda>0.0</lambda>
+      <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+      <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+      <toplamAlan>0.0</toplamAlan>
+      <cikarilanAlan>0.0</cikarilanAlan>
+      <netAlan>0.0</netAlan>
+      <id>0</id>
+      <yapiElemaniKodu>ÝD1</yapiElemaniKodu>
+      <yapiElemaniAdi>Ýç sýva+Delikli Tuðla+Ýç Sýva</yapiElemaniAdi>
+      <uzunluk>0.0</uzunluk>
+      <yukseklik>0.0</yukseklik>
+      <isiGecirgenlikKatsayisi>2.16</isiGecirgenlikKatsayisi>
+      <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+      <kalinlik>0.0</kalinlik>
+      <icSicaklik>0.0</icSicaklik>
+      <disSicaklik>0.0</disSicaklik>
+      <alan>0.0</alan>
+      <isiFarki>0.0</isiFarki>
+      <isiKaybi>0.0</isiKaybi>
+      <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+      <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+    </cogunluklaKullanilanIcDuvar>
+    <cogunluklaKullanilanPencere class="com.iztek.dd.IsiKaybi.domain.PencereYapiElemani">
+      <sizdirganlikKatsayisi>0.0</sizdirganlikKatsayisi>
+      <acilanKisminUzunlugu>0.0</acilanKisminUzunlugu>
+      <id>0</id>
+      <id defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0</id>
+      <yapiElemaniKodu>ÇP3</yapiElemaniKodu>
+      <yapiElemaniAdi>Plastik</yapiElemaniAdi>
+      <uzunluk>0.0</uzunluk>
+      <yukseklik>0.0</yukseklik>
+      <isiGecirgenlikKatsayisi>2.7</isiGecirgenlikKatsayisi>
+      <lambda>0.0</lambda>
+      <kalinlik>0.0</kalinlik>
+      <icSicaklik>0.0</icSicaklik>
+      <disSicaklik>0.0</disSicaklik>
+      <alan>0.0</alan>
+      <isiFarki>0.0</isiFarki>
+      <isiKaybi>0.0</isiKaybi>
+      <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+      <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+    </cogunluklaKullanilanPencere>
+    <cogunluklaKullanilanDisKapi>
+      <sizdirganlikKatsayisi>0.0</sizdirganlikKatsayisi>
+      <acilanKisminUzunlugu>0.0</acilanKisminUzunlugu>
+      <id>0</id>
+      <id defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0</id>
+      <yapiElemaniKodu>DK1</yapiElemaniKodu>
+      <yapiElemaniAdi>Ahþap</yapiElemaniAdi>
+      <uzunluk>0.0</uzunluk>
+      <yukseklik>0.0</yukseklik>
+      <isiGecirgenlikKatsayisi>5.23</isiGecirgenlikKatsayisi>
+      <lambda>0.0</lambda>
+      <kalinlik>0.0</kalinlik>
+      <icSicaklik>0.0</icSicaklik>
+      <disSicaklik>0.0</disSicaklik>
+      <alan>0.0</alan>
+      <isiFarki>0.0</isiFarki>
+      <isiKaybi>0.0</isiKaybi>
+      <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+      <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+    </cogunluklaKullanilanDisKapi>
+    <cogunluklaKullanilanIcKapi>
+      <sizdirganlikKatsayisi>0.0</sizdirganlikKatsayisi>
+      <acilanKisminUzunlugu>0.0</acilanKisminUzunlugu>
+      <id>0</id>
+      <id defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0</id>
+      <yapiElemaniKodu>ÝK1</yapiElemaniKodu>
+      <yapiElemaniAdi>Ýç Kapý</yapiElemaniAdi>
+      <uzunluk>0.0</uzunluk>
+      <yukseklik>0.0</yukseklik>
+      <isiGecirgenlikKatsayisi>2.9</isiGecirgenlikKatsayisi>
+      <lambda>0.0</lambda>
+      <kalinlik>0.0</kalinlik>
+      <icSicaklik>0.0</icSicaklik>
+      <disSicaklik>0.0</disSicaklik>
+      <alan>0.0</alan>
+      <isiFarki>0.0</isiFarki>
+      <isiKaybi>0.0</isiKaybi>
+      <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+      <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+    </cogunluklaKullanilanIcKapi>
+    <enCokKullanilanRadyatorModeli>
+      <model>22PKKP 600</model>
+      <yukseklik>600</yukseklik>
+      <tip>Panel</tip>
+      <guc>2688.0</guc>
+      <hacim>5.6</hacim>
+      <genlesmeKatsayisi>1.35</genlesmeKatsayisi>
+    </enCokKullanilanRadyatorModeli>
+    <bolge class="com.iztek.dd.domain.Bolge2">
+      <bolgeAdi>2</bolgeAdi>
+      <anBirinciHesapKatsayisi>68.59</anBirinciHesapKatsayisi>
+      <anIkincihesapKatsayisi>32.3</anIkincihesapKatsayisi>
+      <anKucukStandartYillikIsitmaEnerjisiIhtiyaci>48.0</anKucukStandartYillikIsitmaEnerjisiIhtiyaci>
+      <anBuyukStandartYillikIsitmaEnerjisiIhtiyaci>104.0</anBuyukStandartYillikIsitmaEnerjisiIhtiyaci>
+      <vbBirinciHesapKatsayisi>21.95</vbBirinciHesapKatsayisi>
+      <vbIkincihesapKatsayisi>10.34</vbIkincihesapKatsayisi>
+      <vbKucukStandartYillikIsitmaEnerjisiIhtiyaci>14.7</vbKucukStandartYillikIsitmaEnerjisiIhtiyaci>
+      <vbBuyukStandartYillikIsitmaEnerjisiIhtiyaci>33.0</vbBuyukStandartYillikIsitmaEnerjisiIhtiyaci>
+      <standartLambda>0.6</standartLambda>
+    </bolge>
+    <il>
+      <bolge class="com.iztek.dd.domain.Bolge2" reference="../../bolge"/>
+      <ad>BURSA</ad>
+      <rectangle class="java.awt.geom.Rectangle2D-Double">
+        <x>61.0</x>
+        <y>57.0</y>
+        <width>34.0</width>
+        <height>20.0</height>
+      </rectangle>
+      <isiKaybiDisSicaklik>-6.0</isiKaybiDisSicaklik>
+    </il>
+  </proje>
+  <ts825Bina>
+    <icSicaklik>19.0</icSicaklik>
+    <brutHacim>450.0</brutHacim>
+    <binaKullanimAlani>0.0</binaKullanimAlani>
+    <golgelenmeFaktoru>0.8</golgelenmeFaktoru>
+    <enerjiKullanimKatsayisi>5.0</enerjiKullanimKatsayisi>
+    <aylikSure>2592000.0</aylikSure>
+    <odaYuksekligi>3.0</odaYuksekligi>
+    <enDusukDisSicaklik>0.0</enDusukDisSicaklik>
+    <proje reference="../../proje"/>
+    <havalandirma class="com.iztek.dd.domain.Havalandirma.DogalHavalandirma">
+      <havaDegisimSayisi>1.0</havaDegisimSayisi>
+      <brutHacim>450.0</brutHacim>
+    </havalandirma>
+    <yapiElemanlari class="list">
+      <com.iztek.dd.domain.DisaAcikDuvar>
+        <twoDigits serialization="custom">
+          <java.text.DecimalFormat>
+            <default>
+              <positivePrefix></positivePrefix>
+              <positiveSuffix></positiveSuffix>
+              <negativePrefix>-</negativePrefix>
+              <negativeSuffix></negativeSuffix>
+              <posPrefixPattern></posPrefixPattern>
+              <posSuffixPattern></posSuffixPattern>
+              <negPrefixPattern>'-</negPrefixPattern>
+              <negSuffixPattern></negSuffixPattern>
+              <multiplier>1</multiplier>
+              <groupingSize>0</groupingSize>
+              <decimalSeparatorAlwaysShown>false</decimalSeparatorAlwaysShown>
+              <parseBigDecimal>false</parseBigDecimal>
+              <symbols serialization="custom">
+                <java.text.DecimalFormatSymbols>
+                  <default>
+                    <zeroDigit>0</zeroDigit>
+                    <groupingSeparator>.</groupingSeparator>
+                    <decimalSeparator>,</decimalSeparator>
+                    <perMill>‰</perMill>
+                    <percent>%</percent>
+                    <digit>#</digit>
+                    <patternSeparator>;</patternSeparator>
+                    <infinity>?</infinity>
+                    <NaN>?</NaN>
+                    <minusSign>-</minusSign>
+                    <currencySymbol>TL</currencySymbol>
+                    <intlCurrencySymbol>TRL</intlCurrencySymbol>
+                    <monetarySeparator>,</monetarySeparator>
+                    <exponential>E</exponential>
+                    <locale>tr_TR</locale>
+                    <serialVersionOnStream>2</serialVersionOnStream>
+                  </default>
+                </java.text.DecimalFormatSymbols>
+                <object>
+                  <default/>
+                </object>
+              </symbols>
+              <useExponentialNotation>false</useExponentialNotation>
+              <minExponentDigits>0</minExponentDigits>
+              <maximumIntegerDigits>2147483647</maximumIntegerDigits>
+              <minimumIntegerDigits>1</minimumIntegerDigits>
+              <maximumFractionDigits>3</maximumFractionDigits>
+              <minimumFractionDigits>3</minimumFractionDigits>
+              <serialVersionOnStream>3</serialVersionOnStream>
+            </default>
+          </java.text.DecimalFormat>
+          <java.text.NumberFormat>
+            <default>
+              <groupingUsed>false</groupingUsed>
+              <maxIntegerDigits>127</maxIntegerDigits>
+              <minIntegerDigits>1</minIntegerDigits>
+              <maxFractionDigits>3</maxFractionDigits>
+              <minFractionDigits>3</minFractionDigits>
+              <parseIntegerOnly>false</parseIntegerOnly>
+              <maximumIntegerDigits>309</maximumIntegerDigits>
+              <minimumIntegerDigits>1</minimumIntegerDigits>
+              <maximumFractionDigits>3</maximumFractionDigits>
+              <minimumFractionDigits>3</minimumFractionDigits>
+              <serialVersionOnStream>1</serialVersionOnStream>
+            </default>
+          </java.text.NumberFormat>
+          <java.text.Format>
+            <default/>
+          </java.text.Format>
+          <object>
+            <default/>
+          </object>
+        </twoDigits>
+        <YOGUSMA__IC__SICAKLIK>20.0</YOGUSMA__IC__SICAKLIK>
+        <IC__SU__BUHARI__KISMI__BASINCI>1170.0</IC__SU__BUHARI__KISMI__BASINCI>
+        <IC__BAGIL__NEM>0.5</IC__BAGIL__NEM>
+        <DIS__BAGIL__NEM>0.8</DIS__BAGIL__NEM>
+        <IC__DOYMUS__SU__BUHARI__BASINCI>2340.0</IC__DOYMUS__SU__BUHARI__BASINCI>
+        <YOGUSMA__SURESI>1440.0</YOGUSMA__SURESI>
+        <BUHARLASMA__HAVA__SICAKLIGI>12.0</BUHARLASMA__HAVA__SICAKLIGI>
+        <BUHARLASMA__BAGIL__NEM>70.0</BUHARLASMA__BAGIL__NEM>
+        <BUHARLASMA__DOYMUS__SU__BUHARI__BASINCI>1403.0</BUHARLASMA__DOYMUS__SU__BUHARI__BASINCI>
+        <BUHARLASMA__SU__BUHARI__KISMI__BASINCI>982.0</BUHARLASMA__SU__BUHARI__KISMI__BASINCI>
+        <BUHARLASMA__SURESI>2160.0</BUHARLASMA__SURESI>
+        <sinirlamaSartlariDisSicaklik>-3.0</sinirlamaSartlariDisSicaklik>
+        <identifier>1. dýþ duvar</identifier>
+        <alan>150.0</alan>
+        <disHavaSicakligi>0.0</disHavaSicakligi>
+        <bilesenler class="list">
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.02</kalinlik>
+            <isiIletimKatsayisi>0.87</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>15.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>18.17394642383624</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>2087.044120897365</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Kireç harcý, kireç-çimento harcý</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.19</kalinlik>
+            <isiIletimKatsayisi>0.45</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>5.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>13.13434952693551</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>1512.1544175595368</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Yatay delikli tuðlalarla duvarlar (TS 4563)</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.04</kalinlik>
+            <isiIletimKatsayisi>0.031</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>80.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>-2.2667954890599322</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>506.75459583803786</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Yüzeyi pürüzlü veya pürüzlü ve kanallý levhalar</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.03</kalinlik>
+            <isiIletimKatsayisi>1.4</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>15.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>-2.5225645045041425</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>495.9670263438378</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Çimento harcý</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+        </bilesenler>
+        <tip class="com.iztek.dd.domain.IsiGecirgenligi.DisaAcik"/>
+      </com.iztek.dd.domain.DisaAcikDuvar>
+      <com.iztek.dd.IsiKaybi.domain.CatiliTavan>
+        <twoDigits serialization="custom">
+          <java.text.DecimalFormat>
+            <default>
+              <positivePrefix></positivePrefix>
+              <positiveSuffix></positiveSuffix>
+              <negativePrefix>-</negativePrefix>
+              <negativeSuffix></negativeSuffix>
+              <posPrefixPattern></posPrefixPattern>
+              <posSuffixPattern></posSuffixPattern>
+              <negPrefixPattern>'-</negPrefixPattern>
+              <negSuffixPattern></negSuffixPattern>
+              <multiplier>1</multiplier>
+              <groupingSize>0</groupingSize>
+              <decimalSeparatorAlwaysShown>false</decimalSeparatorAlwaysShown>
+              <parseBigDecimal>false</parseBigDecimal>
+              <symbols serialization="custom">
+                <java.text.DecimalFormatSymbols>
+                  <default>
+                    <zeroDigit>0</zeroDigit>
+                    <groupingSeparator>.</groupingSeparator>
+                    <decimalSeparator>,</decimalSeparator>
+                    <perMill>‰</perMill>
+                    <percent>%</percent>
+                    <digit>#</digit>
+                    <patternSeparator>;</patternSeparator>
+                    <infinity>?</infinity>
+                    <NaN>?</NaN>
+                    <minusSign>-</minusSign>
+                    <currencySymbol>TL</currencySymbol>
+                    <intlCurrencySymbol>TRL</intlCurrencySymbol>
+                    <monetarySeparator>,</monetarySeparator>
+                    <exponential>E</exponential>
+                    <locale reference="../../../../../../../../com.iztek.dd.domain.DisaAcikDuvar/twoDigits/java.text.DecimalFormat/default/symbols/java.text.DecimalFormatSymbols/default/locale"/>
+                    <serialVersionOnStream>2</serialVersionOnStream>
+                  </default>
+                </java.text.DecimalFormatSymbols>
+                <object>
+                  <default/>
+                </object>
+              </symbols>
+              <useExponentialNotation>false</useExponentialNotation>
+              <minExponentDigits>0</minExponentDigits>
+              <maximumIntegerDigits>2147483647</maximumIntegerDigits>
+              <minimumIntegerDigits>1</minimumIntegerDigits>
+              <maximumFractionDigits>3</maximumFractionDigits>
+              <minimumFractionDigits>3</minimumFractionDigits>
+              <serialVersionOnStream>3</serialVersionOnStream>
+            </default>
+          </java.text.DecimalFormat>
+          <java.text.NumberFormat>
+            <default>
+              <groupingUsed>false</groupingUsed>
+              <maxIntegerDigits>127</maxIntegerDigits>
+              <minIntegerDigits>1</minIntegerDigits>
+              <maxFractionDigits>3</maxFractionDigits>
+              <minFractionDigits>3</minFractionDigits>
+              <parseIntegerOnly>false</parseIntegerOnly>
+              <maximumIntegerDigits>309</maximumIntegerDigits>
+              <minimumIntegerDigits>1</minimumIntegerDigits>
+              <maximumFractionDigits>3</maximumFractionDigits>
+              <minimumFractionDigits>3</minimumFractionDigits>
+              <serialVersionOnStream>1</serialVersionOnStream>
+            </default>
+          </java.text.NumberFormat>
+          <java.text.Format>
+            <default/>
+          </java.text.Format>
+          <object>
+            <default/>
+          </object>
+        </twoDigits>
+        <YOGUSMA__IC__SICAKLIK>20.0</YOGUSMA__IC__SICAKLIK>
+        <IC__SU__BUHARI__KISMI__BASINCI>1170.0</IC__SU__BUHARI__KISMI__BASINCI>
+        <IC__BAGIL__NEM>0.5</IC__BAGIL__NEM>
+        <DIS__BAGIL__NEM>0.8</DIS__BAGIL__NEM>
+        <IC__DOYMUS__SU__BUHARI__BASINCI>2340.0</IC__DOYMUS__SU__BUHARI__BASINCI>
+        <YOGUSMA__SURESI>1440.0</YOGUSMA__SURESI>
+        <BUHARLASMA__HAVA__SICAKLIGI>12.0</BUHARLASMA__HAVA__SICAKLIGI>
+        <BUHARLASMA__BAGIL__NEM>70.0</BUHARLASMA__BAGIL__NEM>
+        <BUHARLASMA__DOYMUS__SU__BUHARI__BASINCI>1403.0</BUHARLASMA__DOYMUS__SU__BUHARI__BASINCI>
+        <BUHARLASMA__SU__BUHARI__KISMI__BASINCI>982.0</BUHARLASMA__SU__BUHARI__KISMI__BASINCI>
+        <BUHARLASMA__SURESI>2160.0</BUHARLASMA__SURESI>
+        <sinirlamaSartlariDisSicaklik>-3.0</sinirlamaSartlariDisSicaklik>
+        <identifier>Catili</identifier>
+        <alan>150.0</alan>
+        <disHavaSicakligi>0.0</disHavaSicakligi>
+        <bilesenler class="list">
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.02</kalinlik>
+            <isiIletimKatsayisi>0.87</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>15.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>7.871922576263511</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>1064.6649265877995</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Kireç harcý, kireç-çimento harcý</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.12</kalinlik>
+            <isiIletimKatsayisi>2.1</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>70.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>3.3419548361537146</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>777.1030167662545</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Donatýlý</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.0</kalinlik>
+            <isiIletimKatsayisi>0.04</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>1.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>3.3419548361537146</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>777.1030167662545</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Mineral ve bitkisel lifli  yalýtým malzemeleri  (TS 901)</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+        </bilesenler>
+        <tip class="com.iztek.dd.domain.IsiGecirgenligi.Catili"/>
+      </com.iztek.dd.IsiKaybi.domain.CatiliTavan>
+      <com.iztek.dd.domain.BinaDuvari>
+        <YOGUSMA__IC__SICAKLIK>20.0</YOGUSMA__IC__SICAKLIK>
+        <IC__SU__BUHARI__KISMI__BASINCI>1170.0</IC__SU__BUHARI__KISMI__BASINCI>
+        <IC__BAGIL__NEM>0.5</IC__BAGIL__NEM>
+        <DIS__BAGIL__NEM>0.8</DIS__BAGIL__NEM>
+        <IC__DOYMUS__SU__BUHARI__BASINCI>2340.0</IC__DOYMUS__SU__BUHARI__BASINCI>
+        <YOGUSMA__SURESI>1440.0</YOGUSMA__SURESI>
+        <BUHARLASMA__HAVA__SICAKLIGI>12.0</BUHARLASMA__HAVA__SICAKLIGI>
+        <BUHARLASMA__BAGIL__NEM>70.0</BUHARLASMA__BAGIL__NEM>
+        <BUHARLASMA__DOYMUS__SU__BUHARI__BASINCI>1403.0</BUHARLASMA__DOYMUS__SU__BUHARI__BASINCI>
+        <BUHARLASMA__SU__BUHARI__KISMI__BASINCI>982.0</BUHARLASMA__SU__BUHARI__KISMI__BASINCI>
+        <BUHARLASMA__SURESI>2160.0</BUHARLASMA__SURESI>
+        <sinirlamaSartlariDisSicaklik>-3.0</sinirlamaSartlariDisSicaklik>
+        <identifier>TTopragaTemasli</identifier>
+        <alan>150.0</alan>
+        <disHavaSicakligi>0.0</disHavaSicakligi>
+        <bilesenler class="list">
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.03</kalinlik>
+            <isiIletimKatsayisi>1.4</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>15.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>0.0</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>0.0</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Çimento harcý</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.03</kalinlik>
+            <isiIletimKatsayisi>0.028</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>80.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>0.0</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>0.0</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Yüzeyi düzgün (ciltli) levhalar</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.12</kalinlik>
+            <isiIletimKatsayisi>2.1</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>70.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>0.0</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>0.0</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Donatýlý</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+          <com.iztek.dd.domain.Bilesen>
+            <kalinlik>0.0</kalinlik>
+            <isiIletimKatsayisi>0.87</isiIletimKatsayisi>
+            <suBuhariDifuzyonDirenciKatsayisi>15.0</suBuhariDifuzyonDirenciKatsayisi>
+            <disaYakinTaraftakiSicaklik>0.0</disaYakinTaraftakiSicaklik>
+            <doymusSuBuhariBasinci>0.0</doymusSuBuhariBasinci>
+            <A1>288.68</A1>
+            <B1>1.098</B1>
+            <N1>8.02</N1>
+            <A2>4.689</A2>
+            <B2>1.486</B2>
+            <N2>12.3</N2>
+            <malzemeCinsi>Kireç harcý, kireç-çimento harcý</malzemeCinsi>
+          </com.iztek.dd.domain.Bilesen>
+        </bilesenler>
+        <tip class="com.iztek.dd.domain.IsiGecirgenligi.TTopragaTemasli"/>
+      </com.iztek.dd.domain.BinaDuvari>
+      <com.iztek.dd.domain.Pencere>
+        <identifier>Pencere</identifier>
+        <isiGecirgenlikKatsayisi>3.02</isiGecirgenlikKatsayisi>
+        <alan>34.0</alan>
+        <HESAP__KATSAYISI>1.0</HESAP__KATSAYISI>
+      </com.iztek.dd.domain.Pencere>
+    </yapiElemanlari>
+    <gunesEnerjisiKazanclari>
+      <com.iztek.dd.domain.GunesEnerjisiKazanci>
+        <yon>GUNEY</yon>
+        <gunesEnerjisiGecirmeFaktoru>0.0</gunesEnerjisiGecirmeFaktoru>
+        <gunesIsinimiSiddeti>0.0</gunesIsinimiSiddeti>
+        <pencereAlani>0.0</pencereAlani>
+      </com.iztek.dd.domain.GunesEnerjisiKazanci>
+      <com.iztek.dd.domain.GunesEnerjisiKazanci>
+        <yon>KUZEY</yon>
+        <gunesEnerjisiGecirmeFaktoru>0.75</gunesEnerjisiGecirmeFaktoru>
+        <gunesIsinimiSiddeti>0.0</gunesIsinimiSiddeti>
+        <pencereAlani>14.0</pencereAlani>
+      </com.iztek.dd.domain.GunesEnerjisiKazanci>
+      <com.iztek.dd.domain.GunesEnerjisiKazanci>
+        <yon>BATI</yon>
+        <gunesEnerjisiGecirmeFaktoru>0.75</gunesEnerjisiGecirmeFaktoru>
+        <gunesIsinimiSiddeti>0.0</gunesIsinimiSiddeti>
+        <pencereAlani>10.0</pencereAlani>
+      </com.iztek.dd.domain.GunesEnerjisiKazanci>
+      <com.iztek.dd.domain.GunesEnerjisiKazanci>
+        <yon>DOGU</yon>
+        <gunesEnerjisiGecirmeFaktoru>0.75</gunesEnerjisiGecirmeFaktoru>
+        <gunesIsinimiSiddeti>0.0</gunesIsinimiSiddeti>
+        <pencereAlani>10.0</pencereAlani>
+      </com.iztek.dd.domain.GunesEnerjisiKazanci>
+    </gunesEnerjisiKazanclari>
+  </ts825Bina>
+  <isiKaybiBina>
+    <proje reference="../../proje"/>
+    <isitici>
+      <isiticiKapasitesi>6072.3093333333345</isiticiKapasitesi>
+      <dolasimIsiKaybi>0.05</dolasimIsiKaybi>
+      <pompaDebisi>0.0</pompaDebisi>
+      <pompaEmniyetDegeri>4000.0</pompaEmniyetDegeri>
+      <binaStatikYuksekligi>4.0</binaStatikYuksekligi>
+      <suHacmi>0.0</suHacmi>
+      <depoHacmi>0.0</depoHacmi>
+      <isPanel>true</isPanel>
+      <secilenIsitici class="com.iztek.dd.IsiKaybi.domain.KombiModeli">
+        <hermetik>true</hermetik>
+        <guc>17000.0</guc>
+        <modelAdi>ADEN</modelAdi>
+        <tip>HKB120</tip>
+        <imageFile>/com/iztek/dd/GUI/images/kombi/aden.jpg</imageFile>
+      </secilenIsitici>
+      <isiticiTuru>Kombi</isiticiTuru>
+    </isitici>
+    <isletmeTipi>2</isletmeTipi>
+    <disSicaklik>0.0</disSicaklik>
+    <binaDurumKatsayisi>2.6</binaDurumKatsayisi>
+    <odaDurumKatsayisi>0.7</odaDurumKatsayisi>
+    <sizdirganlikKatsayisi>2.0</sizdirganlikKatsayisi>
+    <toplamIsiIhtiyaci>6072.309333333334</toplamIsiIhtiyaci>
+    <kritikHat>
+      <boruParcalari class="list">
+        <com.iztek.dd.IsiKaybi.domain.BoruParcasi>
+          <uzunluk>20.0</uzunluk>
+          <isiYuku>3000.0</isiYuku>
+          <cap>0.75</cap>
+          <suHizi>0.16</suHizi>
+          <metreBasiBasincKaybi>21.575</metreBasiBasincKaybi>
+          <surtunmeDirenciYaratanlar class="list">
+            <com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+              <tip>Kazan veya Radyatör</tip>
+            </com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+            <com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+              <tip>Kollektör Giriþ Veya Çýkýþý</tip>
+            </com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+            <com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+              <tip>Kolon Vanasý</tip>
+            </com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+            <com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+              <tip>Dirsek</tip>
+            </com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+            <com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+              <tip>Dirsek</tip>
+            </com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+            <com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+              <tip>Dirsek</tip>
+            </com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+            <com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+              <tip>T Birleþme</tip>
+            </com.iztek.dd.IsiKaybi.domain.SurtunmeDirenciYaratan>
+          </surtunmeDirenciYaratanlar>
+        </com.iztek.dd.IsiKaybi.domain.BoruParcasi>
+      </boruParcalari>
+    </kritikHat>
+    <isiYalitimi>
+      <standartBilesenler/>
+      <ekIsiYalitimBilesenleri class="list">
+        <com.iztek.dd.IsiKaybi.domain.StandartYalitimBileseni>
+          <ad>aa</ad>
+          <yonetmelikLambda>0.6</yonetmelikLambda>
+          <lambda>0.0</lambda>
+          <U>5.0009</U>
+          <A>0.0</A>
+          <UxA>0.0</UxA>
+          <twoDigits serialization="custom">
+            <java.text.DecimalFormat>
+              <default>
+                <positivePrefix></positivePrefix>
+                <positiveSuffix></positiveSuffix>
+                <negativePrefix>-</negativePrefix>
+                <negativeSuffix></negativeSuffix>
+                <posPrefixPattern></posPrefixPattern>
+                <posSuffixPattern></posSuffixPattern>
+                <negPrefixPattern>'-</negPrefixPattern>
+                <negSuffixPattern></negSuffixPattern>
+                <multiplier>1</multiplier>
+                <groupingSize>0</groupingSize>
+                <decimalSeparatorAlwaysShown>false</decimalSeparatorAlwaysShown>
+                <parseBigDecimal>false</parseBigDecimal>
+                <symbols serialization="custom">
+                  <java.text.DecimalFormatSymbols>
+                    <default>
+                      <zeroDigit>0</zeroDigit>
+                      <groupingSeparator>.</groupingSeparator>
+                      <decimalSeparator>.</decimalSeparator>
+                      <perMill>‰</perMill>
+                      <percent>%</percent>
+                      <digit>#</digit>
+                      <patternSeparator>;</patternSeparator>
+                      <infinity>?</infinity>
+                      <NaN>?</NaN>
+                      <minusSign>-</minusSign>
+                      <currencySymbol>TL</currencySymbol>
+                      <intlCurrencySymbol>TRL</intlCurrencySymbol>
+                      <monetarySeparator>,</monetarySeparator>
+                      <exponential>E</exponential>
+                      <locale>tr_TR</locale>
+                      <serialVersionOnStream>2</serialVersionOnStream>
+                    </default>
+                  </java.text.DecimalFormatSymbols>
+                  <object>
+                    <default/>
+                  </object>
+                </symbols>
+                <useExponentialNotation>false</useExponentialNotation>
+                <minExponentDigits>0</minExponentDigits>
+                <maximumIntegerDigits>2147483647</maximumIntegerDigits>
+                <minimumIntegerDigits>1</minimumIntegerDigits>
+                <maximumFractionDigits>2</maximumFractionDigits>
+                <minimumFractionDigits>2</minimumFractionDigits>
+                <serialVersionOnStream>3</serialVersionOnStream>
+              </default>
+            </java.text.DecimalFormat>
+            <java.text.NumberFormat>
+              <default>
+                <groupingUsed>false</groupingUsed>
+                <maxIntegerDigits>127</maxIntegerDigits>
+                <minIntegerDigits>1</minIntegerDigits>
+                <maxFractionDigits>2</maxFractionDigits>
+                <minFractionDigits>2</minFractionDigits>
+                <parseIntegerOnly>false</parseIntegerOnly>
+                <maximumIntegerDigits>309</maximumIntegerDigits>
+                <minimumIntegerDigits>1</minimumIntegerDigits>
+                <maximumFractionDigits>2</maximumFractionDigits>
+                <minimumFractionDigits>2</minimumFractionDigits>
+                <serialVersionOnStream>1</serialVersionOnStream>
+              </default>
+            </java.text.NumberFormat>
+            <java.text.Format>
+              <default/>
+            </java.text.Format>
+            <object>
+              <default/>
+            </object>
+          </twoDigits>
+        </com.iztek.dd.IsiKaybi.domain.StandartYalitimBileseni>
+      </ekIsiYalitimBilesenleri>
+    </isiYalitimi>
+    <katlar class="list">
+      <com.iztek.dd.IsiKaybi.domain.Kat>
+        <katYuksekligi>0</katYuksekligi>
+        <mahaller class="list">
+          <com.iztek.dd.IsiKaybi.domain.Mahal>
+            <mahalId>0</mahalId>
+            <mahalAdi>Oturma odasý (salonlar)</mahalAdi>
+            <mahalkodu>01</mahalkodu>
+            <radyatorGrupSayisi>2</radyatorGrupSayisi>
+            <icSicaklik>22.0</icSicaklik>
+            <odaDurumKatsayisi>0.7</odaDurumKatsayisi>
+            <koseAciklikEtkiKatsayisi>1.0</koseAciklikEtkiKatsayisi>
+            <toplamSinirlayanAlan>0.0</toplamSinirlayanAlan>
+            <pencereAltiYuksekligi>0.01</pencereAltiYuksekligi>
+            <artirimliIsiKaybi>5222.976000000001</artirimliIsiKaybi>
+            <artirimsizIsiKaybi>4352.4800000000005</artirimsizIsiKaybi>
+            <zamOrani>1.2</zamOrani>
+            <sizintiIsiKaybi>849.3333333333333</sizintiIsiKaybi>
+            <toplamIsiKaybi>6072.309333333334</toplamIsiKaybi>
+            <yoneGoreZam>5.0</yoneGoreZam>
+            <katYuksekligiZammi>0.0</katYuksekligiZammi>
+            <isletmeZammi>15.0</isletmeZammi>
+            <toplamZamOrani>1.2</toplamZamOrani>
+            <radyatorModeli>22PKKP 600</radyatorModeli>
+            <yon>K</yon>
+            <yapiElemanlari class="list">
+              <com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+                <ITEM__NAME>Duvar/Döþeme/Tavan</ITEM__NAME>
+                <ICON__URN>/com/iztek/dd/GUI/images/Duvar.jpg</ICON__URN>
+                <MENU__CHOICES>
+                  <string>Pencere</string>
+                  <string>Kapý</string>
+                  <string>Kolon</string>
+                  <string>Kiriþ</string>
+                </MENU__CHOICES>
+                <icDuvar>false</icDuvar>
+                <disDuvar>true</disDuvar>
+                <doseme>false</doseme>
+                <lambda>0.0</lambda>
+                <yon>K</yon>
+                <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+                <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+                <toplamAlan>45.0</toplamAlan>
+                <cikarilanAlan>14.0</cikarilanAlan>
+                <netAlan>31.0</netAlan>
+                <bilesenler class="list"/>
+                <yapiElemanlari class="list">
+                  <com.iztek.dd.IsiKaybi.domain.PencereYapiElemani>
+                    <ITEM__NAME>Pencere</ITEM__NAME>
+                    <ICON__URN>/com/iztek/dd/GUI/images/window_small.jpg</ICON__URN>
+                    <MENU__CHOICES/>
+                    <owningDuvar reference="../../.."/>
+                    <sizdirganlikKatsayisi>0.0</sizdirganlikKatsayisi>
+                    <acilanKisminUzunlugu>12.0</acilanKisminUzunlugu>
+                    <id>0</id>
+                    <id defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0</id>
+                    <yapiElemaniKodu>ÇP3</yapiElemaniKodu>
+                    <yapiElemaniAdi>Plastik</yapiElemaniAdi>
+                    <uzunluk>7.0</uzunluk>
+                    <yukseklik>2.0</yukseklik>
+                    <isiGecirgenlikKatsayisi>2.7</isiGecirgenlikKatsayisi>
+                    <lambda>0.0</lambda>
+                    <kalinlik>0.0</kalinlik>
+                    <icSicaklik>22.0</icSicaklik>
+                    <disSicaklik>0.0</disSicaklik>
+                    <alan>14.0</alan>
+                    <isiFarki>22.0</isiFarki>
+                    <isiKaybi>831.6000000000001</isiKaybi>
+                    <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                    <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+                  </com.iztek.dd.IsiKaybi.domain.PencereYapiElemani>
+                </yapiElemanlari>
+                <mahal reference="../../.."/>
+                <id>0</id>
+                <yapiElemaniKodu>DD1</yapiElemaniKodu>
+                <yapiElemaniAdi>Dýþ sýva+Delikli tuðla+Köpük levha+Delikli tuðla+Ýç sýva</yapiElemaniAdi>
+                <uzunluk>15.0</uzunluk>
+                <yukseklik>3.0</yukseklik>
+                <isiGecirgenlikKatsayisi>0.76</isiGecirgenlikKatsayisi>
+                <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+                <kalinlik>0.285</kalinlik>
+                <icSicaklik>22.0</icSicaklik>
+                <disSicaklik>0.0</disSicaklik>
+                <alan>0.0</alan>
+                <isiFarki>22.0</isiFarki>
+                <isiKaybi>518.3199999999999</isiKaybi>
+                <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+              </com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+              <com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+                <ITEM__NAME>Duvar/Döþeme/Tavan</ITEM__NAME>
+                <ICON__URN>/com/iztek/dd/GUI/images/Duvar.jpg</ICON__URN>
+                <MENU__CHOICES>
+                  <string>Pencere</string>
+                  <string>Kapý</string>
+                  <string>Kolon</string>
+                  <string>Kiriþ</string>
+                </MENU__CHOICES>
+                <icDuvar>false</icDuvar>
+                <disDuvar>true</disDuvar>
+                <doseme>false</doseme>
+                <lambda>0.0</lambda>
+                <yon>G</yon>
+                <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+                <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+                <toplamAlan>45.0</toplamAlan>
+                <cikarilanAlan>4.0</cikarilanAlan>
+                <netAlan>41.0</netAlan>
+                <bilesenler class="list"/>
+                <yapiElemanlari class="list">
+                  <com.iztek.dd.IsiKaybi.domain.KapiYapiElemani>
+                    <ITEM__NAME>Kapý</ITEM__NAME>
+                    <ICON__URN>/com/iztek/dd/GUI/images/door.gif</ICON__URN>
+                    <MENU__CHOICES/>
+                    <owningDuvar reference="../../.."/>
+                    <sizdirganlikKatsayisi>0.0</sizdirganlikKatsayisi>
+                    <acilanKisminUzunlugu>6.0</acilanKisminUzunlugu>
+                    <id>0</id>
+                    <id defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0</id>
+                    <yapiElemaniKodu>DK1</yapiElemaniKodu>
+                    <yapiElemaniAdi>Ahþap</yapiElemaniAdi>
+                    <uzunluk>2.0</uzunluk>
+                    <yukseklik>2.0</yukseklik>
+                    <isiGecirgenlikKatsayisi>5.23</isiGecirgenlikKatsayisi>
+                    <lambda>0.0</lambda>
+                    <kalinlik>0.0</kalinlik>
+                    <icSicaklik>22.0</icSicaklik>
+                    <disSicaklik>0.0</disSicaklik>
+                    <alan>4.0</alan>
+                    <isiFarki>22.0</isiFarki>
+                    <isiKaybi>460.24</isiKaybi>
+                    <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                    <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+                  </com.iztek.dd.IsiKaybi.domain.KapiYapiElemani>
+                </yapiElemanlari>
+                <mahal reference="../../.."/>
+                <id>0</id>
+                <yapiElemaniKodu>DD1</yapiElemaniKodu>
+                <yapiElemaniAdi>Dýþ sýva+Delikli tuðla+Köpük levha+Delikli tuðla+Ýç sýva</yapiElemaniAdi>
+                <uzunluk>15.0</uzunluk>
+                <yukseklik>3.0</yukseklik>
+                <isiGecirgenlikKatsayisi>0.76</isiGecirgenlikKatsayisi>
+                <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+                <kalinlik>28.0</kalinlik>
+                <icSicaklik>22.0</icSicaklik>
+                <disSicaklik>0.0</disSicaklik>
+                <alan>0.0</alan>
+                <isiFarki>22.0</isiFarki>
+                <isiKaybi>685.52</isiKaybi>
+                <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+              </com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+              <com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+                <ITEM__NAME>Duvar/Döþeme/Tavan</ITEM__NAME>
+                <ICON__URN>/com/iztek/dd/GUI/images/Duvar.jpg</ICON__URN>
+                <MENU__CHOICES>
+                  <string>Pencere</string>
+                  <string>Kapý</string>
+                  <string>Kolon</string>
+                  <string>Kiriþ</string>
+                </MENU__CHOICES>
+                <icDuvar>false</icDuvar>
+                <disDuvar>true</disDuvar>
+                <doseme>false</doseme>
+                <lambda>0.0</lambda>
+                <yon>D</yon>
+                <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+                <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+                <toplamAlan>30.0</toplamAlan>
+                <cikarilanAlan>10.0</cikarilanAlan>
+                <netAlan>20.0</netAlan>
+                <bilesenler class="list"/>
+                <yapiElemanlari class="list">
+                  <com.iztek.dd.IsiKaybi.domain.PencereYapiElemani>
+                    <ITEM__NAME>Pencere</ITEM__NAME>
+                    <ICON__URN>/com/iztek/dd/GUI/images/window_small.jpg</ICON__URN>
+                    <MENU__CHOICES/>
+                    <owningDuvar reference="../../.."/>
+                    <sizdirganlikKatsayisi>0.0</sizdirganlikKatsayisi>
+                    <acilanKisminUzunlugu>6.0</acilanKisminUzunlugu>
+                    <id>0</id>
+                    <id defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0</id>
+                    <yapiElemaniKodu>ÇP3</yapiElemaniKodu>
+                    <yapiElemaniAdi>Plastik</yapiElemaniAdi>
+                    <uzunluk>5.0</uzunluk>
+                    <yukseklik>2.0</yukseklik>
+                    <isiGecirgenlikKatsayisi>2.7</isiGecirgenlikKatsayisi>
+                    <lambda>0.0</lambda>
+                    <kalinlik>0.0</kalinlik>
+                    <icSicaklik>22.0</icSicaklik>
+                    <disSicaklik>0.0</disSicaklik>
+                    <alan>10.0</alan>
+                    <isiFarki>22.0</isiFarki>
+                    <isiKaybi>594.0</isiKaybi>
+                    <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                    <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+                  </com.iztek.dd.IsiKaybi.domain.PencereYapiElemani>
+                </yapiElemanlari>
+                <mahal reference="../../.."/>
+                <id>0</id>
+                <yapiElemaniKodu>DD1</yapiElemaniKodu>
+                <yapiElemaniAdi>Dýþ sýva+Delikli tuðla+Köpük levha+Delikli tuðla+Ýç sýva</yapiElemaniAdi>
+                <uzunluk>10.0</uzunluk>
+                <yukseklik>3.0</yukseklik>
+                <isiGecirgenlikKatsayisi>0.76</isiGecirgenlikKatsayisi>
+                <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+                <kalinlik>28.0</kalinlik>
+                <icSicaklik>22.0</icSicaklik>
+                <disSicaklik>0.0</disSicaklik>
+                <alan>0.0</alan>
+                <isiFarki>22.0</isiFarki>
+                <isiKaybi>334.4</isiKaybi>
+                <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+              </com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+              <com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+                <ITEM__NAME>Duvar/Döþeme/Tavan</ITEM__NAME>
+                <ICON__URN>/com/iztek/dd/GUI/images/Duvar.jpg</ICON__URN>
+                <MENU__CHOICES>
+                  <string>Pencere</string>
+                  <string>Kapý</string>
+                  <string>Kolon</string>
+                  <string>Kiriþ</string>
+                </MENU__CHOICES>
+                <icDuvar>false</icDuvar>
+                <disDuvar>true</disDuvar>
+                <doseme>false</doseme>
+                <lambda>0.0</lambda>
+                <yon>B</yon>
+                <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+                <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+                <toplamAlan>30.0</toplamAlan>
+                <cikarilanAlan>10.0</cikarilanAlan>
+                <netAlan>20.0</netAlan>
+                <bilesenler class="list"/>
+                <yapiElemanlari class="list">
+                  <com.iztek.dd.IsiKaybi.domain.PencereYapiElemani>
+                    <ITEM__NAME>Pencere</ITEM__NAME>
+                    <ICON__URN>/com/iztek/dd/GUI/images/window_small.jpg</ICON__URN>
+                    <MENU__CHOICES/>
+                    <owningDuvar reference="../../.."/>
+                    <sizdirganlikKatsayisi>0.0</sizdirganlikKatsayisi>
+                    <acilanKisminUzunlugu>6.0</acilanKisminUzunlugu>
+                    <id>0</id>
+                    <id defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0</id>
+                    <yapiElemaniKodu>ÇP3</yapiElemaniKodu>
+                    <yapiElemaniAdi>Plastik</yapiElemaniAdi>
+                    <uzunluk>5.0</uzunluk>
+                    <yukseklik>2.0</yukseklik>
+                    <isiGecirgenlikKatsayisi>2.7</isiGecirgenlikKatsayisi>
+                    <lambda>0.0</lambda>
+                    <kalinlik>0.0</kalinlik>
+                    <icSicaklik>22.0</icSicaklik>
+                    <disSicaklik>0.0</disSicaklik>
+                    <alan>10.0</alan>
+                    <isiFarki>22.0</isiFarki>
+                    <isiKaybi>594.0</isiKaybi>
+                    <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                    <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+                  </com.iztek.dd.IsiKaybi.domain.PencereYapiElemani>
+                </yapiElemanlari>
+                <mahal reference="../../.."/>
+                <id>0</id>
+                <yapiElemaniKodu>DD1</yapiElemaniKodu>
+                <yapiElemaniAdi>Dýþ sýva+Delikli tuðla+Köpük levha+Delikli tuðla+Ýç sýva</yapiElemaniAdi>
+                <uzunluk>10.0</uzunluk>
+                <yukseklik>3.0</yukseklik>
+                <isiGecirgenlikKatsayisi>0.76</isiGecirgenlikKatsayisi>
+                <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+                <kalinlik>28.0</kalinlik>
+                <icSicaklik>22.0</icSicaklik>
+                <disSicaklik>0.0</disSicaklik>
+                <alan>0.0</alan>
+                <isiFarki>22.0</isiFarki>
+                <isiKaybi>334.4</isiKaybi>
+                <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+              </com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+              <com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+                <ITEM__NAME>Duvar/Döþeme/Tavan</ITEM__NAME>
+                <ICON__URN>/com/iztek/dd/GUI/images/Duvar.jpg</ICON__URN>
+                <MENU__CHOICES>
+                  <string>Pencere</string>
+                  <string>Kapý</string>
+                  <string>Kolon</string>
+                  <string>Kiriþ</string>
+                </MENU__CHOICES>
+                <icDuvar>false</icDuvar>
+                <disDuvar>false</disDuvar>
+                <doseme>true</doseme>
+                <lambda>0.0</lambda>
+                <yon>K</yon>
+                <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+                <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+                <toplamAlan>0.0</toplamAlan>
+                <cikarilanAlan>0.0</cikarilanAlan>
+                <netAlan>0.0</netAlan>
+                <bilesenler class="list"/>
+                <yapiElemanlari class="list"/>
+                <mahal reference="../../.."/>
+                <id>0</id>
+                <yapiElemaniKodu>ta</yapiElemaniKodu>
+                <yapiElemaniAdi>Dýþ sýva+Delikli tuðla+Köpük levha+Delikli tuðla+Ýç sýva</yapiElemaniAdi>
+                <uzunluk>0.0</uzunluk>
+                <yukseklik>0.0</yukseklik>
+                <isiGecirgenlikKatsayisi>3.45</isiGecirgenlikKatsayisi>
+                <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+                <kalinlik>24.0</kalinlik>
+                <icSicaklik>22.0</icSicaklik>
+                <disSicaklik>2.0</disSicaklik>
+                <alan>150.0</alan>
+                <isiFarki>20.0</isiFarki>
+                <isiKaybi>0.0</isiKaybi>
+                <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+              </com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+              <com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+                <ITEM__NAME>Duvar/Döþeme/Tavan</ITEM__NAME>
+                <ICON__URN>/com/iztek/dd/GUI/images/Duvar.jpg</ICON__URN>
+                <MENU__CHOICES>
+                  <string>Pencere</string>
+                  <string>Kapý</string>
+                  <string>Kolon</string>
+                  <string>Kiriþ</string>
+                </MENU__CHOICES>
+                <icDuvar>false</icDuvar>
+                <disDuvar>false</disDuvar>
+                <doseme>true</doseme>
+                <lambda>0.0</lambda>
+                <yon>K</yon>
+                <icYuzeyselIsiTasinimKatsayisi>0.0</icYuzeyselIsiTasinimKatsayisi>
+                <disYuzeyselIsiTasinimKatsayisi>0.0</disYuzeyselIsiTasinimKatsayisi>
+                <toplamAlan>0.0</toplamAlan>
+                <cikarilanAlan>0.0</cikarilanAlan>
+                <netAlan>0.0</netAlan>
+                <bilesenler class="list"/>
+                <yapiElemanlari class="list"/>
+                <mahal reference="../../.."/>
+                <id>0</id>
+                <yapiElemaniKodu>tab</yapiElemaniKodu>
+                <yapiElemaniAdi>Dýþ sýva+Delikli tuðla+Köpük levha+Delikli tuðla+Ýç sýva</yapiElemaniAdi>
+                <uzunluk>0.0</uzunluk>
+                <yukseklik>0.0</yukseklik>
+                <isiGecirgenlikKatsayisi>0.78</isiGecirgenlikKatsayisi>
+                <lambda defined-in="com.iztek.dd.IsiKaybi.domain.YapiElemani">0.0</lambda>
+                <kalinlik>20.0</kalinlik>
+                <icSicaklik>22.0</icSicaklik>
+                <disSicaklik>8.0</disSicaklik>
+                <alan>150.0</alan>
+                <isiFarki>14.0</isiFarki>
+                <isiKaybi>0.0</isiKaybi>
+                <icYuzeyselIsiIletimKatsayisi>0.0</icYuzeyselIsiIletimKatsayisi>
+                <disYuzeyselIsiIletimKatsayisi>0.0</disYuzeyselIsiIletimKatsayisi>
+              </com.iztek.dd.IsiKaybi.domain.DuvarYapiElemani>
+            </yapiElemanlari>
+            <kat reference="../../.."/>
+          </com.iztek.dd.IsiKaybi.domain.Mahal>
+        </mahaller>
+        <toplamIsiIhtiyaci>6072.309333333334</toplamIsiIhtiyaci>
+        <mahalSayisi>1</mahalSayisi>
+        <bina reference="../../.."/>
+      </com.iztek.dd.IsiKaybi.domain.Kat>
+    </katlar>
+  </isiKaybiBina>
+  <mahal>
+    <mustakil>false</mustakil>
+    <icOzgulNem>11.2</icOzgulNem>
+    <disOzgulNem>15.0</disOzgulNem>
+    <icSicaklik>25.5</icSicaklik>
+    <disSicaklik>37.0</disSicaklik>
+    <toplamDisDuvarBoyu>50.0</toplamDisDuvarBoyu>
+    <sicaklikFarki>13.7</sicaklikFarki>
+    <ay>6</ay>
+    <saat>15</saat>
+    <isiKazandiranlar class="list">
+      <com.iztek.dd.IsiKazanci.domain.Aydinlatma>
+        <tip>B</tip>
+        <guc>1000.0</guc>
+        <aydinlatmaSuresi>12</aydinlatmaSuresi>
+        <isikYandiktanSonraGecenSure>8</isikYandiktanSonraGecenSure>
+      </com.iztek.dd.IsiKazanci.domain.Aydinlatma>
+      <com.iztek.dd.IsiKazanci.domain.Cihaz>
+        <davlumbazli>false</davlumbazli>
+        <guc>1600.0</guc>
+        <calistigiToplamSaat>8</calistigiToplamSaat>
+        <isletmeyeAlindiktanSonraGecenSaat>4</isletmeyeAlindiktanSonraGecenSaat>
+      </com.iztek.dd.IsiKazanci.domain.Cihaz>
+      <com.iztek.dd.IsiKazanci.domain.Insan>
+        <insanSayisi>5</insanSayisi>
+        <aktiviteTuru>Oturarak hafif çalýþma</aktiviteTuru>
+        <hacimeGirdiktenSonraGecenZaman>8</hacimeGirdiktenSonraGecenZaman>
+        <hacimdeToplamKalmaSuresi>10</hacimdeToplamKalmaSuresi>
+        <LHG>55.0</LHG>
+        <SHG>65.0</SHG>
+      </com.iztek.dd.IsiKazanci.domain.Insan>
+      <com.iztek.dd.IsiKazanci.domain.Enfiltrasyon>
+        <havaDebisi>0.1</havaDebisi>
+      </com.iztek.dd.IsiKazanci.domain.Enfiltrasyon>
+      <com.iztek.dd.IsiKazanci.domain.Cati>
+        <catiTipi>10 cm. hafif beton</catiTipi>
+        <isiTransferiKatsayisi>1.209</isiTransferiKatsayisi>
+        <alan>1.209</alan>
+        <identifier></identifier>
+      </com.iztek.dd.IsiKazanci.domain.Cati>
+      <com.iztek.dd.IsiKazanci.domain.DisDuvar>
+        <mahal reference="../../.."/>
+        <yon>Kuzey</yon>
+        <isiTransferiKatsayisi>0.0</isiTransferiKatsayisi>
+        <alan>45.0</alan>
+        <identifier>1. duvar</identifier>
+      </com.iztek.dd.IsiKazanci.domain.DisDuvar>
+      <com.iztek.dd.IsiKazanci.domain.DisDuvar>
+        <mahal reference="../../.."/>
+        <yon>Güney</yon>
+        <isiTransferiKatsayisi>0.0</isiTransferiKatsayisi>
+        <alan>45.0</alan>
+        <identifier>2. duvar</identifier>
+      </com.iztek.dd.IsiKazanci.domain.DisDuvar>
+      <com.iztek.dd.IsiKazanci.domain.DisDuvar>
+        <mahal reference="../../.."/>
+        <yon>Güney</yon>
+        <isiTransferiKatsayisi>0.0</isiTransferiKatsayisi>
+        <alan>30.0</alan>
+        <identifier>3. duvar</identifier>
+      </com.iztek.dd.IsiKazanci.domain.DisDuvar>
+      <com.iztek.dd.IsiKazanci.domain.DisDuvar>
+        <mahal reference="../../.."/>
+        <yon>Batý</yon>
+        <isiTransferiKatsayisi>0.0</isiTransferiKatsayisi>
+        <alan>30.0</alan>
+        <identifier>4. duvar</identifier>
+      </com.iztek.dd.IsiKazanci.domain.DisDuvar>
+      <com.iztek.dd.IsiKazanci.domain.Pencere>
+        <golgelemeYapilmis>false</golgelemeYapilmis>
+        <camTipi>Normal çift camlý pencere</camTipi>
+        <kalinlik>6.0</kalinlik>
+        <golgelemeTipi></golgelemeTipi>
+        <yon>Kuzey</yon>
+        <isiTransferiKatsayisi>3.02</isiTransferiKatsayisi>
+        <alan>14.0</alan>
+        <identifier>1. pencere</identifier>
+      </com.iztek.dd.IsiKazanci.domain.Pencere>
+      <com.iztek.dd.IsiKazanci.domain.Pencere>
+        <golgelemeYapilmis>false</golgelemeYapilmis>
+        <camTipi>Normal çift camlý pencere</camTipi>
+        <kalinlik>6.0</kalinlik>
+        <golgelemeTipi></golgelemeTipi>
+        <yon>Doðu</yon>
+        <isiTransferiKatsayisi>3.02</isiTransferiKatsayisi>
+        <alan>10.0</alan>
+        <identifier>2. pencere</identifier>
+      </com.iztek.dd.IsiKazanci.domain.Pencere>
+      <com.iztek.dd.IsiKazanci.domain.Pencere>
+        <golgelemeYapilmis>false</golgelemeYapilmis>
+        <camTipi>Normal çift camlý pencere</camTipi>
+        <kalinlik>6.0</kalinlik>
+        <golgelemeTipi></golgelemeTipi>
+        <yon>Batý</yon>
+        <isiTransferiKatsayisi>3.02</isiTransferiKatsayisi>
+        <alan>10.0</alan>
+        <identifier>3. pencere</identifier>
+      </com.iztek.dd.IsiKazanci.domain.Pencere>
+    </isiKazandiranlar>
+    <toplamIletimYoluylaIsiKazanci>0</toplamIletimYoluylaIsiKazanci>
+    <altCLTD>false</altCLTD>
+    <mobilyaTipi>B</mobilyaTipi>
+    <davlumbazVar>false</davlumbazVar>
+    <catiRengiKoyu>false</catiRengiKoyu>
+    <havaSirkulasyonuVar>false</havaSirkulasyonuVar>
+    <pencereIsiTransferKatsayisi>3.02</pencereIsiTransferKatsayisi>
+    <disDuvarIsiTransferKatsayisi>0.52</disDuvarIsiTransferKatsayisi>
+    <klimaModeli>7042 HP</klimaModeli>
+  </mahal>
+  <binaDurumuKatsayilariArrayIndex1>1</binaDurumuKatsayilariArrayIndex1>
+  <binaDurumuKatsayilariArrayIndex2>2</binaDurumuKatsayilariArrayIndex2>
+  <binaDurumuKatsayilariArrayIndex3>0</binaDurumuKatsayilariArrayIndex3>
+  <sizdirganlikKatsayilariArrayIndex1>1</sizdirganlikKatsayilariArrayIndex1>
+  <sizdirganlikKatsayilariArrayIndex2>1</sizdirganlikKatsayilariArrayIndex2>
+</com.iztek.dd.SaveObject>

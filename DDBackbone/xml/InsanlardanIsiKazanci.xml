@@ -1,0 +1,101 @@
+<Insanlar>
+  <entry>
+    <string>yürüyerek hafif çalýþma</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>205</gizliIsiUretimi>
+        <duyulurIsiUretimi>100</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>fabrika</tipikOrnek>
+      <aktiviteTuru>yürüyerek hafif çalýþma</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>ayakta hafif çalýþma</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>130</gizliIsiUretimi>
+        <duyulurIsiUretimi>100</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>fabrika</tipikOrnek>
+      <aktiviteTuru>ayakta hafif çalýþma</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>oturarak dinlenme</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>40</gizliIsiUretimi>
+        <duyulurIsiUretimi>60</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>Tiyatro, sinema</tipikOrnek>
+      <aktiviteTuru>oturarak dinlenme</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>dans etmek</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>255</gizliIsiUretimi>
+        <duyulurIsiUretimi>120</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>diskotek</tipikOrnek>
+      <aktiviteTuru>dans etmek</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>oturarak hafif çalýþma</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>55</gizliIsiUretimi>
+        <duyulurIsiUretimi>65</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>ofis, otel, apt.</tipikOrnek>
+      <aktiviteTuru>oturarak hafif çalýþma</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>aðýr sanayi iþçiliði</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>300</gizliIsiUretimi>
+        <duyulurIsiUretimi>165</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>fabrika</tipikOrnek>
+      <aktiviteTuru>aðýr sanayi iþçiliði</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>ayakta hafif çalýþmak, yürümek</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>95</gizliIsiUretimi>
+        <duyulurIsiUretimi>90</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>Banka, maðaza</tipikOrnek>
+      <aktiviteTuru>ayakta hafif çalýþmak, yürümek</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>oturarak yemek yemek</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>95</gizliIsiUretimi>
+        <duyulurIsiUretimi>75</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>Restaurant</tipikOrnek>
+      <aktiviteTuru>oturarak yemek yemek</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+  <entry>
+    <string>aðýr jimnastik</string>
+    <com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+      <isiUretimi>
+        <gizliIsiUretimi>340</gizliIsiUretimi>
+        <duyulurIsiUretimi>185</duyulurIsiUretimi>
+      </isiUretimi>
+      <tipikOrnek>spor salonu</tipikOrnek>
+      <aktiviteTuru>aðýr jimnastik</aktiviteTuru>
+    </com.iztek.dd.IsiKazanci.domain.InsandanIsiKazanci>
+  </entry>
+</Insanlar>

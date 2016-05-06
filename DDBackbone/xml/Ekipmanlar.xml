@@ -1,0 +1,50 @@
+<Ekipmanlar>
+  <Ekipman>
+    <ekipmanAdi>Elektrik ocaðý</ekipmanAdi>
+    <anmaGucu>3000.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Elektrik süpürgesi</ekipmanAdi>
+    <anmaGucu>200.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Çamaþýr makinasý</ekipmanAdi>
+    <anmaGucu>3000.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Buzdolabý 100 lt</ekipmanAdi>
+    <anmaGucu>100.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Buzdolabý 200 lt</ekipmanAdi>
+    <anmaGucu>175.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Ütü</ekipmanAdi>
+    <anmaGucu>500.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Radyo</ekipmanAdi>
+    <anmaGucu>40.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Televizyon</ekipmanAdi>
+    <anmaGucu>1000.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Monitörlü özel bilgisayar</ekipmanAdi>
+    <anmaGucu>300.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Yazýcý</ekipmanAdi>
+    <anmaGucu>500.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Renkli özel bilgisayar</ekipmanAdi>
+    <anmaGucu>400.0</anmaGucu>
+  </Ekipman>
+  <Ekipman>
+    <ekipmanAdi>Bilgisayar terminali</ekipmanAdi>
+    <anmaGucu>180.0</anmaGucu>
+  </Ekipman>
+</Ekipmanlar>

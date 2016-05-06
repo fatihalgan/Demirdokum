@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/itext-1.01.jar"/>
+	<classpathentry kind="lib" path="lib/jasperreports-0.6.3.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xmlParserAPIs.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/xpp3-1.1.3.4d_b4_min.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DDAktarim"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,671 @@
+<DisSicakliklar>
+  <entry>
+    <string>Adana</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>16.5</disOzgulNem>
+      <gunlukSicaklikFarki>12.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Adapazarı</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>15.9</disOzgulNem>
+      <gunlukSicaklikFarki>12.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Adıyaman</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Afyon</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>10.3</disOzgulNem>
+      <gunlukSicaklikFarki>17.1</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  
+  <entry>
+    <string>Ağrı</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Amasya</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>31</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Ankara</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>8.9</disOzgulNem>
+      <gunlukSicaklikFarki>15.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Antakya</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>20.4</disOzgulNem>
+      <gunlukSicaklikFarki>7.3</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Antalya</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>39</maksimumDisSicaklik>
+      <disOzgulNem>19.6</disOzgulNem>
+      <gunlukSicaklikFarki>11.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Artvin</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Aydın</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>40</maksimumDisSicaklik>
+      <disOzgulNem>15.5</disOzgulNem>
+      <gunlukSicaklikFarki>11.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Balıkesir</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>15.0</disOzgulNem>
+      <gunlukSicaklikFarki>12.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Bandırma</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>16.2</disOzgulNem>
+      <gunlukSicaklikFarki>12.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+ <entry>
+    <string>Bilecik</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>13.2</disOzgulNem>
+      <gunlukSicaklikFarki>11.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Bingöl</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  
+  <entry>
+    <string>Bitlis</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Bolu</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>13.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Burdur</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>9.5</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Bursa</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>15.0</disOzgulNem>
+      <gunlukSicaklikFarki>13.7</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Çanakkale</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>16.2</disOzgulNem>
+      <gunlukSicaklikFarki>11.9</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Çankırı</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>11.9</disOzgulNem>
+      <gunlukSicaklikFarki>11.9</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Çorum</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>11.3</disOzgulNem>
+      <gunlukSicaklikFarki>16.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Denizli</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>13.0</disOzgulNem>
+      <gunlukSicaklikFarki>16.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Diyarbakır</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>43</maksimumDisSicaklik>
+      <disOzgulNem>9.5</disOzgulNem>
+      <gunlukSicaklikFarki>17.7</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Edirne</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>15.0</disOzgulNem>
+      <gunlukSicaklikFarki>14.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Elazığ</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>8.7</disOzgulNem>
+      <gunlukSicaklikFarki>13.9</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Erzincan</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>10.9</disOzgulNem>
+      <gunlukSicaklikFarki>17.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Erzurum</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>9.3</disOzgulNem>
+      <gunlukSicaklikFarki>14.7</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Eskişehir</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>11.7</disOzgulNem>
+      <gunlukSicaklikFarki>15.9</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Gaziantep</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>39</maksimumDisSicaklik>
+      <disOzgulNem>13.3</disOzgulNem>
+      <gunlukSicaklikFarki>13.5</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Giresun</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>29</maksimumDisSicaklik>
+      <disOzgulNem>18.4</disOzgulNem>
+      <gunlukSicaklikFarki>6.3</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Gümüşhane</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Hakkari</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Hatay</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>20.4</disOzgulNem>
+      <gunlukSicaklikFarki>7.3</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Iğdır</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>15.5</disOzgulNem>
+      <gunlukSicaklikFarki>16.7</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Isparta</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>10.3</disOzgulNem>
+      <gunlukSicaklikFarki>15.5</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>İçel</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>14.3</disOzgulNem>
+      <gunlukSicaklikFarki>7.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>İskenderun</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>22.5</disOzgulNem>
+      <gunlukSicaklikFarki>8.3</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>İstanbul</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>15.2</disOzgulNem>
+      <gunlukSicaklikFarki>10.5</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>İzmir</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>13.5</disOzgulNem>
+      <gunlukSicaklikFarki>12.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>İzmit</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>35.5</disOzgulNem>
+      <gunlukSicaklikFarki>10.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  
+  <entry>
+    <string>Kahramanmaraş</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Kars</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>10.5</disOzgulNem>
+      <gunlukSicaklikFarki>16.6</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Kastamonu</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>11.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.2</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Kayseri</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>10.9</disOzgulNem>
+      <gunlukSicaklikFarki>20.1</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Kırklareli</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Kırşehir</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>9.9</disOzgulNem>
+      <gunlukSicaklikFarki>20.1</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Kocaeli</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>36</maksimumDisSicaklik>
+      <disOzgulNem>15.5</disOzgulNem>
+      <gunlukSicaklikFarki>10.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Konya</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>10.3</disOzgulNem>
+      <gunlukSicaklikFarki>15.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Kütahya</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>10.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Malatya</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>8.7</disOzgulNem>
+      <gunlukSicaklikFarki>14.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Manisa</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>40</maksimumDisSicaklik>
+      <disOzgulNem>13.7</disOzgulNem>
+      <gunlukSicaklikFarki>16.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Mardin</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>38</maksimumDisSicaklik>
+      <disOzgulNem>11.6</disOzgulNem>
+      <gunlukSicaklikFarki>10.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Mersin</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>14.3</disOzgulNem>
+      <gunlukSicaklikFarki>7.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Muğla</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>10.5</disOzgulNem>
+      <gunlukSicaklikFarki>13.2</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Muş</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Nevşehir</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>28</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Niğde</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>34</maksimumDisSicaklik>
+      <disOzgulNem>8.9</disOzgulNem>
+      <gunlukSicaklikFarki>15.5</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Ordu</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Rize</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>19.8</disOzgulNem>
+      <gunlukSicaklikFarki>6.1</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Sakarya</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>15.9</disOzgulNem>
+      <gunlukSicaklikFarki>12.4</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Samsun</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>17.2</disOzgulNem>
+      <gunlukSicaklikFarki>7.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Siirt</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>40</maksimumDisSicaklik>
+      <disOzgulNem>10.7</disOzgulNem>
+      <gunlukSicaklikFarki>13.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Sinop</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>30</maksimumDisSicaklik>
+      <disOzgulNem>18.0</disOzgulNem>
+      <gunlukSicaklikFarki>6.5</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Sivas</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>9.3</disOzgulNem>
+      <gunlukSicaklikFarki>17.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Tekirdağ</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>16.7</disOzgulNem>
+      <gunlukSicaklikFarki>9.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Tokat</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>29</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Trabzon</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>31</maksimumDisSicaklik>
+      <disOzgulNem>17.6</disOzgulNem>
+      <gunlukSicaklikFarki>5.8</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Tunceli</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>37</maksimumDisSicaklik>
+      <disOzgulNem>0.0</disOzgulNem>
+      <gunlukSicaklikFarki>0.0</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Şanlıurfa</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>43</maksimumDisSicaklik>
+      <disOzgulNem>11.0</disOzgulNem>
+      <gunlukSicaklikFarki>15.2</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Uşak</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>35</maksimumDisSicaklik>
+      <disOzgulNem>11.3</disOzgulNem>
+      <gunlukSicaklikFarki>16.6</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Van</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>33</maksimumDisSicaklik>
+      <disOzgulNem>9.3</disOzgulNem>
+      <gunlukSicaklikFarki>15.5</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Yozgat</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>9.7</disOzgulNem>
+      <gunlukSicaklikFarki>8.1</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+  <entry>
+    <string>Zonguldak</string>
+    <com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+      <maksimumDisSicaklik>32</maksimumDisSicaklik>
+      <disOzgulNem>17.2</disOzgulNem>
+      <gunlukSicaklikFarki>8.1</gunlukSicaklikFarki>
+    </com.iztek.dd.aktarim.model.disSicakliklar.DisSicaklikDegerleri>
+  </entry>
+  
+</DisSicakliklar>

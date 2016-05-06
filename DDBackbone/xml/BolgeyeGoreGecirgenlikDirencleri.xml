@@ -1,0 +1,122 @@
+<ArrayList>
+  <ArrayList>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Dýþ duvarlar</ad>
+      <direnc>0.4</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Merdiven duvarlarý</ad>
+      <direnc>0.21</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Üzeri çatýlý duvarlar</ad>
+      <direnc>1.03</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Isýtýlmayan bodrum ve bina döþemeleri</ad>
+      <direnc>0.55</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Zemine oturan döþemeler</ad>
+      <direnc>0.55</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Açýk geçit üzeri döþemeler</ad>
+      <direnc>1.2</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Düz çatý ve teras döþemeleri</ad>
+      <direnc>1.28</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+  </ArrayList>
+  <ArrayList>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Dýþ duvarlar</ad>
+      <direnc>0.6</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Merdiven duvarlarý</ad>
+      <direnc>0.34</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Üzeri çatýlý duvarlar</ad>
+      <direnc>1.28</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Isýtýlmayan bodrum ve bina döþemeleri</ad>
+      <direnc>0.79</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Zemine oturan döþemeler</ad>
+      <direnc>0.79</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Açýk geçit üzeri döþemeler</ad>
+      <direnc>1.71</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Düz çatý ve teras döþemeleri</ad>
+      <direnc>2.06</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+  </ArrayList>
+  <ArrayList>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Dýþ duvarlar</ad>
+      <direnc>0.8</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Merdiven duvarlarý</ad>
+      <direnc>0.42</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Üzeri çatýlý duvarlar</ad>
+      <direnc>2.06</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Isýtýlmayan bodrum ve bina döþemeleri</ad>
+      <direnc>1.28</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Zemine oturan döþemeler</ad>
+      <direnc>1.28</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Açýk geçit üzeri döþemeler</ad>
+      <direnc>2.14</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Düz çatý ve teras döþemeleri</ad>
+      <direnc>2.57</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+  </ArrayList>
+  <ArrayList>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Dýþ duvarlar</ad>
+      <direnc>0.8</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Merdiven duvarlarý</ad>
+      <direnc>0.42</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Üzeri çatýlý duvarlar</ad>
+      <direnc>2.06</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Isýtýlmayan bodrum ve bina döþemeleri</ad>
+      <direnc>1.28</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Zemine oturan döþemeler</ad>
+      <direnc>1.28</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Açýk geçit üzeri döþemeler</ad>
+      <direnc>2.14</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+    <com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+      <ad>Düz çatý ve teras döþemeleri</ad>
+      <direnc>2.57</direnc>
+    </com.iztek.dd.IsiKaybi.domain.StandartBilesenDirenci>
+  </ArrayList>
+</ArrayList>

@@ -1,0 +1,1362 @@
+<entry>
+  <sir>0</sir>
+  <id>0</id>
+  <cesit>0</cesit>
+  <birimHacim>0</birimHacim>
+  <isilIletkenlik>0</isilIletkenlik>
+  <difuzyonFaktoru>0</difuzyonFaktoru>
+  <children>
+    <entry>
+      <sir>16</sir>
+      <id>1</id>
+      <cesit>   DOÐAL TAÞLAR  </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>17</sir>
+          <id>1.1</id>
+          <cesit>Kristal yapýlý püskürük ve metamorfik taþlar (granit, bazalt, mermer, vb.)</cesit>
+          <birimHacim>2800</birimHacim>
+          <isilIletkenlik>3,5</isilIletkenlik>
+          <difuzyonFaktoru>10000</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>18</sir>
+          <id>1.2</id>
+          <cesit>Tortul, sedimante taþlar (kum taþý, traverten, konglomeralar vb.)</cesit>
+          <birimHacim>2600</birimHacim>
+          <isilIletkenlik>2,3</isilIletkenlik>
+          <difuzyonFaktoru>40</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>19</sir>
+          <id>1.3</id>
+          <cesit>Gözenekli püskürük taþlar</cesit>
+          <birimHacim>1600</birimHacim>
+          <isilIletkenlik>0,55</isilIletkenlik>
+          <difuzyonFaktoru>10</difuzyonFaktoru>
+          <children/>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>20</sir>
+      <id>2</id>
+      <cesit>DOÐAL ZEMINLER (DOÐAL NEMLILIKTE) </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>21</sir>
+          <id>2.1</id>
+          <cesit>Kum, kum-çakýl</cesit>
+          <birimHacim>1800</birimHacim>
+          <isilIletkenlik>1,4</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>22</sir>
+          <id>2.2</id>
+          <cesit>Kil,sýký toprak</cesit>
+          <birimHacim>2000</birimHacim>
+          <isilIletkenlik>2,1</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>23</sir>
+      <id>3</id>
+      <cesit> DÖKME MALZEMELER (HAVA KURUSUNDA, ÜZERI ÖRTÜLÜ DURUMDA)   </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>24</sir>
+          <id>3.1</id>
+          <cesit>Kum, çakýl, kýrma taþ (mýcýr)</cesit>
+          <birimHacim>1800</birimHacim>
+          <isilIletkenlik>0,7</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>25</sir>
+          <id>3.2</id>
+          <cesit>Bims çakýlý (TS 3234)</cesit>
+          <birimHacim>1000</birimHacim>
+          <isilIletkenlik>0,19</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>26</sir>
+          <id>3.3</id>
+          <cesit>Yüksek fýrýn curufu</cesit>
+          <birimHacim>600</birimHacim>
+          <isilIletkenlik>0,13</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>27</sir>
+          <id>3.4</id>
+          <cesit>Kömür curufu</cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik>0,23</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>28</sir>
+          <id>3.5</id>
+          <cesit>Gözenekli doðal taþ mýcýrlarý</cesit>
+          <birimHacim>1200</birimHacim>
+          <isilIletkenlik>0,22</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>30</sir>
+          <id>3.6</id>
+          <cesit>Genleþtirilmiþ perlit agregasý (TS 3681)</cesit>
+          <birimHacim>50</birimHacim>
+          <isilIletkenlik>0,046</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>34</sir>
+          <id>3.7</id>
+          <cesit>Genleþtirilmiþ mantar parçacýklarý</cesit>
+          <birimHacim>200</birimHacim>
+          <isilIletkenlik>0,05</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>35</sir>
+          <id>3.8</id>
+          <cesit>Polistiren, sert köpük parçacýklarý</cesit>
+          <birimHacim>15</birimHacim>
+          <isilIletkenlik>0,045</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>36</sir>
+          <id>3.9</id>
+          <cesit>Testere ve plânya talaþý</cesit>
+          <birimHacim>200</birimHacim>
+          <isilIletkenlik>0,07</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>37</sir>
+          <id>3.10</id>
+          <cesit>Saman</cesit>
+          <birimHacim>150</birimHacim>
+          <isilIletkenlik>0,058</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>38</sir>
+      <id>4</id>
+      <cesit> SIVALAR, ÞAPLAR VE DIÐER HARÇ TABAKALARI   </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>39</sir>
+          <id>4.1</id>
+          <cesit>Kireç harcý, kireç-çimento harcý</cesit>
+          <birimHacim>1800</birimHacim>
+          <isilIletkenlik>0,87</isilIletkenlik>
+          <difuzyonFaktoru>15</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>40</sir>
+          <id>4.2</id>
+          <cesit>Çimento harcý</cesit>
+          <birimHacim>2000</birimHacim>
+          <isilIletkenlik>1,4</isilIletkenlik>
+          <difuzyonFaktoru>15</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>41</sir>
+          <id>4.3</id>
+          <cesit>Alçý harcý, kireçli alçý harcý</cesit>
+          <birimHacim>1400</birimHacim>
+          <isilIletkenlik>0,7</isilIletkenlik>
+          <difuzyonFaktoru>10</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>42</sir>
+          <id>4.4</id>
+          <cesit>Yalnýz alçý kullanarak (agregasýz) yapýlmýþ sýva</cesit>
+          <birimHacim>1200</birimHacim>
+          <isilIletkenlik>0,35</isilIletkenlik>
+          <difuzyonFaktoru>10</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>43</sir>
+          <id>4.5</id>
+          <cesit>Alçý harçlý þap</cesit>
+          <birimHacim>2000</birimHacim>
+          <isilIletkenlik>1,2</isilIletkenlik>
+          <difuzyonFaktoru>15</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>44</sir>
+          <id>4.6</id>
+          <cesit>Çimento harçlý þap</cesit>
+          <birimHacim>2000</birimHacim>
+          <isilIletkenlik>1,4</isilIletkenlik>
+          <difuzyonFaktoru>15</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>45</sir>
+          <id>4.7</id>
+          <cesit>Dökme asfalt kaplama, kalýnlýk  15 mm</cesit>
+          <birimHacim>2300</birimHacim>
+          <isilIletkenlik>0,9</isilIletkenlik>
+          <difuzyonFaktoru>50000</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>46</sir>
+          <id>4.8</id>
+          <cesit>Anorganik asýllý hafif agregalardan yapýlmýþ sýva harçlarý</cesit>
+          <birimHacim>800</birimHacim>
+          <isilIletkenlik>0,3</isilIletkenlik>
+          <difuzyonFaktoru>15</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>49</sir>
+          <id>4.9</id>
+          <cesit>Genleþtirilmiþ perlit agregasýyla yapýlan sývalar ve harç ve tabakalarý</cesit>
+          <birimHacim>400</birimHacim>
+          <isilIletkenlik>0,14</isilIletkenlik>
+          <difuzyonFaktoru>15</difuzyonFaktoru>
+          <children/>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>54</sir>
+      <id>5</id>
+      <cesit>BÜYÜK BOYUTLU YAPI ELEMANLARI VE BILEÞENLERI (KOLON, KIRIÞ, DÖÞEME VE ISI ILETKENLIÐI HESABINA ESAS YÜZEYI 0,25 M2 DEN BÜYÜK OLAN PERDE, PANOLAR GIBI)</cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>55</sir>
+          <id>5.1</id>
+          <cesit>  NORMAL BETON, (TS 500'E UYGUN), DOÐAL AGREGA VEYA MICIR KULLANILARAK YAPILMIÞ BETONLAR</cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>56</sir>
+              <id>5.1.1</id>
+              <cesit>Donatýlý</cesit>
+              <birimHacim>2400</birimHacim>
+              <isilIletkenlik>2,1</isilIletkenlik>
+              <difuzyonFaktoru>70</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>57</sir>
+              <id>5.1.2</id>
+              <cesit>Donatýsýz</cesit>
+              <birimHacim>2200</birimHacim>
+              <isilIletkenlik>1,74</isilIletkenlik>
+              <difuzyonFaktoru>70</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>58</sir>
+          <id>5.2</id>
+          <cesit>KESIF DOKULU HAFIF BETONLAR, (AGREGALAR ARASI BOÞLUKSUZ) DONATILI VEYA DONATISIZ </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>59</sir>
+              <id>5.2.1</id>
+              <cesit>Gözenekli hafif agregalar kullanýlarak ve kuvars kumu katýlmaksýzýn yapýlmýþ betonlar (TS 1114'e uygun agregalarla 3 )</cesit>
+              <birimHacim>800</birimHacim>
+              <isilIletkenlik>0,39</isilIletkenlik>
+              <difuzyonFaktoru>70</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>70</sir>
+              <id>5.2.2</id>
+              <cesit>Yalnýz genleþtirilmiþ perlit kullanýlarak ve kuvars kumu katýlmaksýzýn yapýlmýþ betonlar (TS 3649'a uygun ) 3 )</cesit>
+              <birimHacim>300</birimHacim>
+              <isilIletkenlik>0,1</isilIletkenlik>
+              <difuzyonFaktoru>70</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>81</sir>
+          <id>5.3</id>
+          <cesit>TUVENAN HALINDEKI HAFIF AGREGALARLA YAPILAN HAFIF BETONLAR (AGREGALAR ARASI BOÞLUKLU)</cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>82</sir>
+              <id>5.3.1</id>
+              <cesit>Gözeneksiz agregalar kullanýlarak yapýlmýþ betonlar</cesit>
+              <birimHacim>1600</birimHacim>
+              <isilIletkenlik>0,81</isilIletkenlik>
+              <difuzyonFaktoru>3</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>85</sir>
+              <id>5.3.2</id>
+              <cesit>Gözenekli hafif agregalar kullanýlarak kuvartz kumu katýlmadan yapýlmýþ betonlar 3 )</cesit>
+              <birimHacim>600</birimHacim>
+              <isilIletkenlik>0,22</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>94</sir>
+              <id>5.3.3</id>
+              <cesit>Yalnýz doðal bims kullanýlarak ve kuvars kumu katýlmadan yapýlmýþ betonlar (TS 3234'e uygun) (TS 2823'e uygun yapý elemanlarý dahil)</cesit>
+              <birimHacim>500</birimHacim>
+              <isilIletkenlik>0,15</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>101</sir>
+          <id>5.4</id>
+          <cesit> ORGANIK BAZLI AGREGALARLA YAPILMIÞ HAFIF BETONLAR </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>102</sir>
+              <id>5.4.1</id>
+              <cesit>Ahþap testere veya plânya talaþý betonu</cesit>
+              <birimHacim>400</birimHacim>
+              <isilIletkenlik>0,14</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>107</sir>
+              <id>5.4.2</id>
+              <cesit>Çeltik kapçýðý betonu</cesit>
+              <birimHacim>600</birimHacim>
+              <isilIletkenlik>0,14</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>109</sir>
+          <id>5.5</id>
+          <cesit>Buharla sertleþtirilmiþ gaz betonlar (TS 453'e uygun yapý elemanlarý dahil)</cesit>
+          <birimHacim>400</birimHacim>
+          <isilIletkenlik>0,14</isilIletkenlik>
+          <difuzyonFaktoru>5</difuzyonFaktoru>
+          <children/>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>114</sir>
+      <id>6</id>
+      <cesit> YAPI PLÂKLARI VE LEVHALARI </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>115</sir>
+          <id>6.1</id>
+          <cesit> GAZ BETON YAPI LEVHALARI (TS 453'E UYGUN PLAKLAR) </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>116</sir>
+              <id>6.1.1</id>
+              <cesit>Normal derz kalýnlýðýnda ve normal harçla yerleþtirilen levhalar</cesit>
+              <birimHacim>500</birimHacim>
+              <isilIletkenlik>0,22</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>120</sir>
+              <id>6.1.2</id>
+              <cesit>Ýnce derzli veya özel yapýþtýrýcý kullanýlarak yerleþtirilen levhalar</cesit>
+              <birimHacim>500</birimHacim>
+              <isilIletkenlik>0,19</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>124</sir>
+          <id>6.2</id>
+          <cesit>Hafif betondan duvar plâklarý</cesit>
+          <birimHacim>800</birimHacim>
+          <isilIletkenlik>0,29</isilIletkenlik>
+          <difuzyonFaktoru>5</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>129</sir>
+          <id>6.3</id>
+          <cesit>Alçýdan duvar levhalar ve bloklarý (gözenekli, delikli, dolgu veya agregalý olanlar dahil) (TS 45l, TS 452 TS 1474'e uygun )</cesit>
+          <birimHacim>600</birimHacim>
+          <isilIletkenlik>0,29</isilIletkenlik>
+          <difuzyonFaktoru>5</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>134</sir>
+          <id>6.4</id>
+          <cesit>Genleþtirilmiþ perlit agregasý katýlmýþ alçý duvar levhalarý (TS 3682 ye uygun)</cesit>
+          <birimHacim>600</birimHacim>
+          <isilIletkenlik>0,29</isilIletkenlik>
+          <difuzyonFaktoru>5</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>137</sir>
+          <id>6.5</id>
+          <cesit>Alçý karton plâkalar (TS 452'ye uygun)</cesit>
+          <birimHacim>900</birimHacim>
+          <isilIletkenlik>0,21</isilIletkenlik>
+          <difuzyonFaktoru>8</difuzyonFaktoru>
+          <children/>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>138</sir>
+      <id>7</id>
+      <cesit> KÂGIR DUVARLAR (HARÇ FUGALARI- DERZLERI DAHIL) </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>139</sir>
+          <id>7.1</id>
+          <cesit>TUÐLA DUVARLAR  </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>140</sir>
+              <id>7.1.1</id>
+              <cesit>TS 704, TS 705 'e uygun tuðlalarla yapýlan kâgir duvarlar, dolu klinker, düþey delikli klinger, (TS 4562) seramik klinger (TS 2902).</cesit>
+              <birimHacim>1800</birimHacim>
+              <isilIletkenlik>0,81</isilIletkenlik>
+              <difuzyonFaktoru>50</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>143</sir>
+              <id>7.1.2</id>
+              <cesit>TS 704, TS 705 'e uygun dolu veya düþey delikli tuðlalarla duvarlar</cesit>
+              <birimHacim>1200</birimHacim>
+              <isilIletkenlik>0,5</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>148</sir>
+              <id>7.1.3</id>
+              <cesit> DÜÞEY DELIKLI TUÐLALARLA DUVARLAR  (TS 4377'YE UYGUN AB SINIFI TUÐLALARLA, NORMAL DERZ VEYA HARÇ CEPLI) </cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>149</sir>
+                  <id>7.1.3.1</id>
+                  <cesit>Normal harç kullanarak AB sýnýfý tuðlalarla yapýlan duvarlar</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,35</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>153</sir>
+                  <id>7.1.3.2</id>
+                  <cesit>TS4916 'ya uygun harç kullanýlarak AB sýnýfý tuðlalarla yapýlan duvarlar2)</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,3</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>157</sir>
+              <id>7.1.4</id>
+              <cesit> DÜÞEY DELIKLI HAFIF TUÐLARLARLA DUVARLAR (TS 4377'YE UYGUN W SINIFI TUÐLALARLA, NORMAL DERZ VEYA HARÇ CEPLI)</cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>158</sir>
+                  <id>7.1.4.1</id>
+                  <cesit>Normal harç kullanýlarak W sýnýfý tuðlalarla yapýlan duvarlar</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,3</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>162</sir>
+                  <id>7.1.4.2</id>
+                  <cesit>TS 4916'ya uygun harç kullanýlarak W sýnýfý tuðlalarla yapýlan duvarlar2)</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,24</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>166</sir>
+              <id>7.1.5</id>
+              <cesit>  DÜÞEY DELIKLI HAFIF TUÐLALARLA DUVARLAR (TS 4377'YE UYGUN W SINIFI LÂMBA ZIVANALI TUÐLALARLA)</cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>167</sir>
+                  <id>7.1.5.1</id>
+                  <cesit>Normal harç kullanýlarak W sýnýfý lâmba zývanalý tuðlalarla yapýlan duvarlar</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,24</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>171</sir>
+                  <id>7.1.5.2</id>
+                  <cesit>TS 49l6 'ya uygun harç kullanýlarak W sýnýfý Lâmba- zývanalý tuðlalarla yapýlan duvarlar2)</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,18</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>175</sir>
+              <id>7.1.6</id>
+              <cesit>Yatay delikli tuðlalarla duvarlar (TS 4563)</cesit>
+              <birimHacim>1000</birimHacim>
+              <isilIletkenlik>0,45</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>176</sir>
+          <id>7.2</id>
+          <cesit>Kireç kum taþý duvarlar (TS 808 'e uygun)</cesit>
+          <birimHacim>700</birimHacim>
+          <isilIletkenlik>0,35</isilIletkenlik>
+          <difuzyonFaktoru>5</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>186</sir>
+          <id>7.3</id>
+          <cesit>GAZ BETON DUVAR BLOKLARI ILE DUVARLAR (TS 453'E UYGUN) </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>187</sir>
+              <id>7.3.1</id>
+              <cesit>Normal derz kalýnlýðýnda ve normal harçla yerleþtirilmiþ bloklarla duvarlar</cesit>
+              <birimHacim>400</birimHacim>
+              <isilIletkenlik>0,2</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>192</sir>
+              <id>7.3.2</id>
+              <cesit>Ýnce derzli (derz kalýnlýðý   3 mm) veya özel yapýþtýrýcýsýyla yerleþtirilmiþ bloklarla duvarlar (blok uzunluðunun en az 500 mm olmasý þartýyla)</cesit>
+              <birimHacim>400</birimHacim>
+              <isilIletkenlik>0,15</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>197</sir>
+              <id>7.3.3</id>
+              <cesit>TS 4916 'ya uygun harç kullanýlarak gaz beton bloklarla yapýlan duvarlar2)</cesit>
+              <birimHacim>400</birimHacim>
+              <isilIletkenlik>0,14</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>202</sir>
+          <id>7.4</id>
+          <cesit> BETON BRIKET VEYA DUVAR BLOKLARI ILE DUVARLAR   </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>203</sir>
+              <id>7.4.1</id>
+              <cesit>Hafif betondan dolu briket veya dolu bloklarla duvarlar (TS 406'ya uygun ve kuvars kumu katýlmaksýzýn yapýlmýþ briket ve bloklarla)</cesit>
+              <birimHacim>500</birimHacim>
+              <isilIletkenlik>0,32</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>214</sir>
+              <id>7.4.2</id>
+              <cesit>Doðal bims betondan dolu bloklarla duvarlar (TS 2823'e uygun DDB türü bloklarla, kuvars kumu katýlmaksýzýn yapýlmýþ)</cesit>
+              <birimHacim>500</birimHacim>
+              <isilIletkenlik>0,29</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>225</sir>
+              <id>7.4.3</id>
+              <cesit>KUVARS KUMU KATILMAKSIZIN DOÐAL BIMSLE YAPILMIÞ BETONDAN ÖZEL YARIKLI DOLU DUVAR BLOKLARIYLA DUVARLAR (TS 2823'E UYGUN SW TÜRÜ BLOKLARLA)</cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>226</sir>
+                  <id>7.4.3.1</id>
+                  <cesit>Uzunluk    490 mm</cesit>
+                  <birimHacim>500</birimHacim>
+                  <isilIletkenlik>0,2</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>230</sir>
+                  <id>7.4.3.2</id>
+                  <cesit>240 mm Uzunluk  490 mm</cesit>
+                  <birimHacim>500</birimHacim>
+                  <isilIletkenlik>0,22</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>234</sir>
+              <id>7.4.4</id>
+              <cesit>Genleþtirilmiþ perlit betonundan dolu bloklarla duvarlar (kuvartz kumu katýlmaksýzýn yapýlmýþ bloklarla) (TS 3681'e uygun agregayla TS 406'ya uygun olarak yapýlmýþ bloklarla  3)</cesit>
+              <birimHacim>500</birimHacim>
+              <isilIletkenlik>0,26</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>238</sir>
+          <id>7.5</id>
+          <cesit>  BOÞLUKLU BRIKET VEYA BLOKLARLA DUVARLAR  </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>239</sir>
+              <id>7.5.1</id>
+              <cesit> HAFIF BETONDAN BOÞLUKLU BLOKLARLA DUVARLAR (KUVARS KUMU KATILMAKSIZIN TS 2823 UYGUN BDB TÜRÜ BLOKLARLA)</cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>240</sir>
+                  <id>7.5.1.1</id>
+                  <cesit>2 sýra boþluklu;   geniþlik   240 mm ,</cesit>
+                  <birimHacim>500</birimHacim>
+                  <isilIletkenlik>0,29</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>241</sir>
+                  <id>7.5.1.2</id>
+                  <cesit>3 sýra boþluklu;   geniþlik   300 mm,</cesit>
+                  <birimHacim>600</birimHacim>
+                  <isilIletkenlik>0,32</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>242</sir>
+                  <id>7.5.1.3</id>
+                  <cesit>4 sýra boþluklu;   geniþlik   365 mm,</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,35</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>243</sir>
+                  <id>7.5.1.4</id>
+                  <cesit>5 sýra boþluklu    geniþlik   490 mm,</cesit>
+                  <birimHacim>800</birimHacim>
+                  <isilIletkenlik>0,39</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>244</sir>
+                  <id>7.5.1.5</id>
+                  <cesit>6 sýra boþluklu;   geniþlik   490 mm</cesit>
+                  <birimHacim>900</birimHacim>
+                  <isilIletkenlik>0,44</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>245</sir>
+                  <id>7.5.1.6</id>
+                  <cesit>olan bloklarda</cesit>
+                  <birimHacim>1000</birimHacim>
+                  <isilIletkenlik>0,49</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>248</sir>
+                  <id>7.5.1.7</id>
+                  <cesit>2 sýra boþluklu;   geniþlik = 300 mm,</cesit>
+                  <birimHacim>500</birimHacim>
+                  <isilIletkenlik>0,29</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>249</sir>
+                  <id>7.5.1.8</id>
+                  <cesit>3 sýra boþluklu;   geniþlik = 365 mm</cesit>
+                  <birimHacim>600</birimHacim>
+                  <isilIletkenlik>0,34</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>250</sir>
+                  <id>7.5.1.9</id>
+                  <cesit>olan bloklarda</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,39</isilIletkenlik>
+                  <difuzyonFaktoru>5</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>256</sir>
+              <id>7.5.2</id>
+              <cesit> NORMAL BETONDAN BOÞLUKLU BRIKET VE BLOKLARLA DUVARLAR (TS 406'YA UYGUN)</cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>257</sir>
+                  <id>7.5.2.1</id>
+                  <cesit> 2 sýra boþluklu;   geniþlik   240 mm ,</cesit>
+                  <birimHacim>1800</birimHacim>
+                  <isilIletkenlik>0,92</isilIletkenlik>
+                  <difuzyonFaktoru>20</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>258</sir>
+                  <id>7.5.2.2</id>
+                  <cesit> 3 sýra boþluklu;   geniþlik   300 mm,</cesit>
+                  <birimHacim>1800</birimHacim>
+                  <isilIletkenlik>0,92</isilIletkenlik>
+                  <difuzyonFaktoru>20</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>259</sir>
+                  <id>7.5.2.3</id>
+                  <cesit> 4 sýra boþluklu;   geniþlik   365 mm,</cesit>
+                  <birimHacim>1800</birimHacim>
+                  <isilIletkenlik>0,92</isilIletkenlik>
+                  <difuzyonFaktoru>20</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>260</sir>
+                  <id>7.5.2.4</id>
+                  <cesit> 2 sýra boþluklu;   geniþlik  = 300 mm,</cesit>
+                  <birimHacim>1800</birimHacim>
+                  <isilIletkenlik>1,3</isilIletkenlik>
+                  <difuzyonFaktoru>20</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>261</sir>
+                  <id>7.5.2.5</id>
+                  <cesit> 3 sýra boþluklu;   geniþlik  = 365 mm,</cesit>
+                  <birimHacim>1800</birimHacim>
+                  <isilIletkenlik>1,3</isilIletkenlik>
+                  <difuzyonFaktoru>20</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>262</sir>
+          <id>7.6</id>
+          <cesit> DOÐAL TAÞLARLA ÖRÜLMÜÞ MOLOZ TAÞ DUVARLAR   </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>263</sir>
+              <id>7.6.1</id>
+              <cesit> TAÞIN cesitIM HACIM KÜTLESI   </cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>264</sir>
+                  <id>7.6.1.1</id>
+                  <cesit>1600 kg/m3</cesit>
+                  <birimHacim></birimHacim>
+                  <isilIletkenlik>0,81</isilIletkenlik>
+                  <difuzyonFaktoru>1</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>265</sir>
+                  <id>7.6.1.2</id>
+                  <cesit>1600,2000 kg/m3</cesit>
+                  <birimHacim></birimHacim>
+                  <isilIletkenlik>1,16</isilIletkenlik>
+                  <difuzyonFaktoru>1</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>266</sir>
+                  <id>7.6.1.3</id>
+                  <cesit>2000,2600 kg/m3</cesit>
+                  <birimHacim></birimHacim>
+                  <isilIletkenlik>1,74</isilIletkenlik>
+                  <difuzyonFaktoru>1</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>267</sir>
+                  <id>7.6.1.4</id>
+                  <cesit>2600             kg/m3</cesit>
+                  <birimHacim></birimHacim>
+                  <isilIletkenlik>2,56</isilIletkenlik>
+                  <difuzyonFaktoru>1</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+          </children>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>268</sir>
+      <id>8</id>
+      <cesit> AHÞAP VE AHÞAP MAMULLERI   </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>269</sir>
+          <id>8.1</id>
+          <cesit> AHÞAP  </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>270</sir>
+              <id>8.1.1</id>
+              <cesit>Ýðne yapraklý aðaçlardan elde edilmiþ olanlar</cesit>
+              <birimHacim>600</birimHacim>
+              <isilIletkenlik>0,13</isilIletkenlik>
+              <difuzyonFaktoru>40</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>271</sir>
+              <id>8.1.2</id>
+              <cesit>Kayýn, meþe, diþbudak</cesit>
+              <birimHacim>800</birimHacim>
+              <isilIletkenlik>0,2</isilIletkenlik>
+              <difuzyonFaktoru>40</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>272</sir>
+          <id>8.2</id>
+          <cesit> AHÞAP MAMULLERI  </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>273</sir>
+              <id>8.2.1</id>
+              <cesit>Kontrplâk (TS 46), kontrtabla (TS 1047)</cesit>
+              <birimHacim>800</birimHacim>
+              <isilIletkenlik>0,13</isilIletkenlik>
+              <difuzyonFaktoru>50</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>274</sir>
+              <id>8.2.2</id>
+              <cesit> AHÞAP YONGA LEVHALAR  </cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>275</sir>
+                  <id>8.2.2.1</id>
+                  <cesit>Yatýk yongalý levhalar (TS 180, TS 1617)</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,13</isilIletkenlik>
+                  <difuzyonFaktoru>50</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>276</sir>
+                  <id>8.2.2.2</id>
+                  <cesit>Dik yongalý levhalar (TS 3482)</cesit>
+                  <birimHacim>700</birimHacim>
+                  <isilIletkenlik>0,17</isilIletkenlik>
+                  <difuzyonFaktoru>20</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+          </children>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>283</sir>
+      <id>9</id>
+      <cesit>  KAPLAMALAR  </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>284</sir>
+          <id>9.1</id>
+          <cesit> DÖÞEME KAPLAMALARI  </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>285</sir>
+              <id>9.1.1</id>
+              <cesit>Linolyum</cesit>
+              <birimHacim>1000</birimHacim>
+              <isilIletkenlik>0,17</isilIletkenlik>
+              <difuzyonFaktoru>5000</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>286</sir>
+              <id>9.1.2</id>
+              <cesit>Mantarlý linolyum</cesit>
+              <birimHacim>700</birimHacim>
+              <isilIletkenlik>0,08</isilIletkenlik>
+              <difuzyonFaktoru>1500</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>287</sir>
+              <id>9.1.3</id>
+              <cesit>Sentetik malzemeden kaplamalar (örneðin PVC)</cesit>
+              <birimHacim>1500</birimHacim>
+              <isilIletkenlik>0,23</isilIletkenlik>
+              <difuzyonFaktoru>50000</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>288</sir>
+              <id>9.1.4</id>
+              <cesit>Halý vb. kaplamalar</cesit>
+              <birimHacim>250</birimHacim>
+              <isilIletkenlik>0,07</isilIletkenlik>
+              <difuzyonFaktoru>5</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>289</sir>
+          <id>9.2</id>
+          <cesit>  SUYA KARÞI YALITIM KAPLAMALARI  </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>290</sir>
+              <id>9.2.1</id>
+              <cesit>Mastik asfalt kaplama    7 mm</cesit>
+              <birimHacim>2000</birimHacim>
+              <isilIletkenlik>0,7</isilIletkenlik>
+              <difuzyonFaktoru>50000</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>291</sir>
+              <id>9.2.2</id>
+              <cesit> BITÜM VE BITÜM EMDIRILMIÞ KAPLAMALAR </cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>292</sir>
+                  <id>9.2.2.1</id>
+                  <cesit> ARMATÜRLÜ BITÜMLÜ PESTILLER (MEMBRANLAR) </cesit>
+                  <birimHacim></birimHacim>
+                  <isilIletkenlik></isilIletkenlik>
+                  <difuzyonFaktoru></difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>293</sir>
+                  <id>9.2.2.2</id>
+                  <cesit>Bitümlü karton</cesit>
+                  <birimHacim>1100</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>2000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>294</sir>
+                  <id>9.2.2.3</id>
+                  <cesit>Cam tülü armatürlü bitümlü pestil</cesit>
+                  <birimHacim>1200</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>14000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>295</sir>
+                  <id>9.2.2.4</id>
+                  <cesit>0,01 mm Al. Folyolu bitümlü pestil</cesit>
+                  <birimHacim>900</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>100000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>296</sir>
+                  <id>9.2.2.5</id>
+                  <cesit>Cam tülü armatürlü polimer bitümlü membran</cesit>
+                  <birimHacim>2000</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>14000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>297</sir>
+                  <id>9.2.2.6</id>
+                  <cesit>Polimer bitümlü su yalýtým örtüleri</cesit>
+                  <birimHacim>2000-5000</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>20000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>298</sir>
+              <id>9.2.3</id>
+              <cesit> ARMATÜRLÜ VEYA ARMATÜRSÜZ PLÂSTIK PESTIL VE FOLYOLAR </cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>299</sir>
+                  <id>9.2.3.1</id>
+                  <cesit>Polietilen folyo</cesit>
+                  <birimHacim>1000</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>80000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>300</sir>
+                  <id>9.2.3.2</id>
+                  <cesit>PVC örtü</cesit>
+                  <birimHacim>1200</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>42000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>301</sir>
+                  <id>9.2.3.3</id>
+                  <cesit>PIB polyisobütilen örtü</cesit>
+                  <birimHacim>1600</birimHacim>
+                  <isilIletkenlik>0,26</isilIletkenlik>
+                  <difuzyonFaktoru>300000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>302</sir>
+                  <id>9.2.3.4</id>
+                  <cesit>ECB etilen kopolimer örtü</cesit>
+                  <birimHacim>1000</birimHacim>
+                  <isilIletkenlik>0,19</isilIletkenlik>
+                  <difuzyonFaktoru>80000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>303</sir>
+                  <id>9.2.3.5</id>
+                  <cesit>EPDM etilen propilen kauçuk örtü</cesit>
+                  <birimHacim>1200</birimHacim>
+                  <isilIletkenlik>0,3</isilIletkenlik>
+                  <difuzyonFaktoru>100000</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+          </children>
+        </entry>
+      </children>
+    </entry>
+    <entry>
+      <sir>304</sir>
+      <id>10</id>
+      <cesit> ISI YALITIM MALZEMELERI  </cesit>
+      <birimHacim></birimHacim>
+      <isilIletkenlik></isilIletkenlik>
+      <difuzyonFaktoru></difuzyonFaktoru>
+      <children>
+        <entry>
+          <sir>305</sir>
+          <id>10.1</id>
+          <cesit> ODUN TALAÞI LEVHALARI (TS 305)  </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>306</sir>
+              <id>10.1.1</id>
+              <cesit>levha kalýnlýðý    25 mm</cesit>
+              <birimHacim>360-480</birimHacim>
+              <isilIletkenlik>0,09</isilIletkenlik>
+              <difuzyonFaktoru>2</difuzyonFaktoru>
+              <children/>
+            </entry>
+            <entry>
+              <sir>307</sir>
+              <id>10.1.2</id>
+              <cesit>levha kalýnlýðý   =10 mm</cesit>
+              <birimHacim>570</birimHacim>
+              <isilIletkenlik>0,15</isilIletkenlik>
+              <difuzyonFaktoru>2</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>308</sir>
+          <id>10.2</id>
+          <cesit> SENTETIK KÖPÜK MALZEMELER </cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik></isilIletkenlik>
+          <difuzyonFaktoru></difuzyonFaktoru>
+          <children>
+            <entry>
+              <sir>309</sir>
+              <id>10.2.1</id>
+              <cesit> POLISTIREN SERT KÖPÜK LEVHALAR (PS) </cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>310</sir>
+                  <id>10.2.1.1</id>
+                  <cesit>Polistiren - partiküler köpük (TS 7316)</cesit>
+                  <birimHacim>= 15</birimHacim>
+                  <isilIletkenlik>0,04</isilIletkenlik>
+                  <difuzyonFaktoru>20</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>311</sir>
+              <id>10.2.2</id>
+              <cesit> POLISTIREN - EKSTRÜDE KÖPÜK XPS (TS 11989) </cesit>
+              <birimHacim></birimHacim>
+              <isilIletkenlik></isilIletkenlik>
+              <difuzyonFaktoru></difuzyonFaktoru>
+              <children>
+                <entry>
+                  <sir>312</sir>
+                  <id>10.2.2.1</id>
+                  <cesit>Yüzeyi pürüzlü veya pürüzlü ve kanallý levhalar</cesit>
+                  <birimHacim>20</birimHacim>
+                  <isilIletkenlik>0,031</isilIletkenlik>
+                  <difuzyonFaktoru>80</difuzyonFaktoru>
+                  <children/>
+                </entry>
+                <entry>
+                  <sir>313</sir>
+                  <id>10.2.2.2</id>
+                  <cesit>Yüzeyi düzgün (ciltli) levhalar</cesit>
+                  <birimHacim>= 30</birimHacim>
+                  <isilIletkenlik>0,028</isilIletkenlik>
+                  <difuzyonFaktoru>80</difuzyonFaktoru>
+                  <children/>
+                </entry>
+              </children>
+            </entry>
+            <entry>
+              <sir>314</sir>
+              <id>10.2.3</id>
+              <cesit>Poliüretan sert köpük levhalar (PUR) (TS 2193) (TS 10981)</cesit>
+              <birimHacim>= 30</birimHacim>
+              <isilIletkenlik>0,035</isilIletkenlik>
+              <difuzyonFaktoru>30</difuzyonFaktoru>
+              <children/>
+            </entry>
+          </children>
+        </entry>
+        <entry>
+          <sir>315</sir>
+          <id>10.3</id>
+          <cesit>Fenol reçinesinden sert köpük levhalar</cesit>
+          <birimHacim>= 30</birimHacim>
+          <isilIletkenlik>0,04</isilIletkenlik>
+          <difuzyonFaktoru>10</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>316</sir>
+          <id>10.4</id>
+          <cesit>Mineral ve bitkisel lifli  yalýtým malzemeleri  (TS 901)</cesit>
+          <birimHacim>8 - 500</birimHacim>
+          <isilIletkenlik>0,04</isilIletkenlik>
+          <difuzyonFaktoru>1</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>317</sir>
+          <id>10.5</id>
+          <cesit>Cam köpüðü levhalar</cesit>
+          <birimHacim>100 - 500</birimHacim>
+          <isilIletkenlik>0,052</isilIletkenlik>
+          <difuzyonFaktoru>10000</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>318</sir>
+          <id>10.6</id>
+          <cesit>Mantardan ýsý yalýtým levhalarý (TS 304)</cesit>
+          <birimHacim>80 - 160</birimHacim>
+          <isilIletkenlik>0,04</isilIletkenlik>
+          <difuzyonFaktoru>10</difuzyonFaktoru>
+          <children/>
+        </entry>
+        <entry>
+          <sir>321</sir>
+          <id>10.7</id>
+          <cesit>Kamýþtan hafif levhalar</cesit>
+          <birimHacim></birimHacim>
+          <isilIletkenlik>0,058</isilIletkenlik>
+          <difuzyonFaktoru>5</difuzyonFaktoru>
+          <children/>
+        </entry>
+      </children>
+    </entry>
+  </children>
+</entry>

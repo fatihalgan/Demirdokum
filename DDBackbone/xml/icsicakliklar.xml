@@ -1,0 +1,166 @@
+<icSicakliklar>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Ahýr ve aðýl</mahal>
+		<tip>Diðer</tip>
+		<sicaklik>12</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Antre</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Aðýr iþ yapan atölye ve montaj yeri</mahal>
+		<tip>Fabrika Yapýlarý</tip>
+		<sicaklik>15</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Banyo</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>26</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>
+			Banyo, duþ, ameliyat, röntgen ve röntgen soyunma odalarý
+		</mahal>
+		<tip>Hastane Yapýlarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Banyo, duþ, soyunma hacimleri</mahal>
+		<tip>Ceza Ve Tutukevi</tip>
+		<sicaklik>26</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Bekleme odasý</mahal>
+		<tip>Ýþ ve Ýdare Binalarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Berber, terzi dükkaný</mahal>
+		<tip>Ýi ve Ýdare Binalarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Dersli öðretim mutfaðý ve iþ atölyesi</mahal>
+		<tip>Okullar</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>
+			Derslik, doðal bilim öðretimi için özel hacimler, pedagoji
+			merkezleri
+		</mahal>
+		<tip>Okullar</tip>
+		<sicaklik>22</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Duþ, soyunma ve giyinme odalarý</mahal>
+		<tip>Okullar</tip>
+		<sicaklik>26</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Eczane ve laboratuvar</mahal>
+		<tip>Hastane Yapýlarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Garajlar</mahal>
+		<tip>Diðer</tip>
+		<sicaklik>10</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Hafif iþ atölyesi ve koðuþ</mahal>
+		<tip>Ceza Ve Tutukevi</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Hafif iþ yapan atölyeler</mahal>
+		<tip>Fabrika Yapýlarý</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Hasta yatak ve poliklinik odasý</mahal>
+		<tip>Hastane Yapýlarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>
+			Kadin iþçilerin calýþtýðý örgü, biçki ve dikiþ atölyeleri
+		</mahal>
+		<tip>Fabrika Yapýlarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Lokanta, otel ve pansiyon odasý</mahal>
+		<tip>Ýþ ve Ýdare Binalarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Merdiven</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>10</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>
+			Merdiven ve asansör boþluðu, koridor, bekleme salonu, hol ve
+			WC
+		</mahal>
+		<tip>Hastane Yapýlarý</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Mutfak</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Oturarak çalýþýlan iþ atölyesi</mahal>
+		<tip>Ýþ ve Ýdare Binalarý</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Oturma odasý (salonlar)</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>22</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Yatak odasý</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Sergi evleri, müzeler</mahal>
+		<tip>Diðer</tip>
+		<sicaklik>15</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Sinema ve tiyatro salonlarý</mahal>
+		<tip>Diðer</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Tek odalar, yatak odalarý</mahal>
+		<tip>Ceza Ve Tutukevi</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>WC</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>18</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Yatak odasý</mahal>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Yatak odasý</mahal>
+		<tip>Konutlar</tip>
+		<sicaklik>20</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+	<com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+		<mahal>Öðretim araç deposu, laboratuvar, vestiyer</mahal>
+		<tip>Okullar</tip>
+		<sicaklik>15</sicaklik>
+	</com.iztek.dd.IsiKaybi.domain.IcSicaklik>
+</icSicakliklar>
